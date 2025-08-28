@@ -6,59 +6,68 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from urllib.parse import urlparse, urlunparse
 
-chrome_options = Options()
-chrome_options.add_argument("--headless")
-chrome_options.add_argument("--disable-gpu")
-chrome_options.add_argument(
-   "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-)
-service = Service()
-driver = webdriver.Chrome(service=service, options=chrome_options)
+def extract_unique_sub_urls(base_url):
+    # Set up Chrome options
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # Run in headless mode
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument(
+        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    )
+    
+    # Initialize the Chrome driver
+    service = Service()
+    driver = webdriver.Chrome(service=service, options=chrome_options)
 
-def normalize_url(url):
-    parsed = urlparse(url)
-    parsed = parsed._replace(fragment='')
-    path = parsed.path if parsed.path != '/' else ''
-    if path.endswith('/'):
-        path = path.rstrip('/')
-    parsed = parsed._replace(path=path)
-    normalized = urlunparse(parsed)
-    return normalized
+    try:
+        # Navigate to the base URL
+        driver.get(base_url)
+        
+        # Wait for the page to load
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+        
+        # Find all anchor tags
+        anchors = driver.find_elements(By.TAG_NAME, "a")
+        
+        # Extract unique sub-URLs
+        unique_urls = set()
+        for anchor in anchors:
+            href = anchor.get_attribute("href")
+            if href:
+                # Parse the URL and check if it's a sub-URL of the base URL
+                parsed_href = urlparse(href)
+                parsed_base = urlparse(base_url)
+                
+                # Check if the netloc and scheme match
+                if parsed_href.netloc == parsed_base.netloc and parsed_href.scheme == parsed_base.scheme:
+                    # Remove the fragment and ensure the path is formatted correctly
+                    path = parsed_href.path if parsed_href.path != '/' else ''
+                    if path.endswith('/'):
+                        path = path.rstrip('/')
+                    # Rebuild the URL without the fragment
+                    cleaned_href = urlunparse(parsed_href._replace(fragment='', path=path))
+                    unique_urls.add(cleaned_href)
 
-to_visit = {"https://seedfund.startupindia.gov.in"}
-visited = set()
+        # Add the base URL if it's not already included
+        unique_urls.add(base_url)
 
-try:
-    while to_visit:
-        url = to_visit.pop()
-        url = normalize_url(url)
-        if url in visited:
-            continue
-        visited.add(url)
+        return unique_urls
 
-        try:
-            driver.get(url)
-            WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.TAG_NAME, "body"))
-            )
+    except Exception as e:
+        print(f"Error: {e}")
+        return set()
+    
+    finally:
+        driver.quit()
 
-            links = driver.find_elements(By.TAG_NAME, "a")
-            for link in links:
-                href = link.get_attribute("href")
-                if href and href.startswith("https") and "seedfund.startupindia.gov.in" in href:
-                    href = normalize_url(href)
-                    if href not in visited and href not in to_visit:
-                        to_visit.add(href)
-
-        except Exception as e:
-            print("Error with", url, ":", e)
-
-finally:
-    with open('urls.txt', 'w') as f:
-            for i in visited:
-                f.write(i+"\n");
-    driver.quit()
-
-print("\nTotal unique URLs found:", len(visited))
-for link in sorted(visited):
-    print(link)
+if __name__ == "__main__":
+    base_url = input("Enter the URL to scrape: ")
+    unique_sub_urls = extract_unique_sub_urls(base_url)
+    
+    # Write unique URLs to a file
+    with open('urls2.txt', 'w') as f:
+        for url in unique_sub_urls:
+            f.write(url + "\n")
+    
+    print("Unique sub-URLs found and saved to urls2.txt.")
