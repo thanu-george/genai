@@ -1,5 +1,28 @@
-venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# macOS cruft
 .DS_Store
-.env
+
+# Docker volumes (Milvus, etcd, MinIO persistent data)
+volumes/
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore local configs or temp files
+*.swp
+*.swo
