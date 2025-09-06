@@ -603,7 +603,7 @@ The union territory offers monthly allowance to startups having women
 
  Co\-Founder \- Janhvi Shah.](/content/sih/en/get-featured/Oceanic-Herbs.html)
 
-**To get your stories featured, Apply Now!**
+* *To get your stories featured, Apply Now!**
 
 [Get Featured](https://www.startupindia.gov.in/content/sih/en/custom-form/show-user-list.html?id=65cdb181687bc0713fde94fb)
 

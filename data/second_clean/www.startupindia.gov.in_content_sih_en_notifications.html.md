@@ -1,9 +1,0 @@
-Notifications
-
-▲
-
-* [Notifications](#45263998265080323-0)
-* [Connection Requests](#45263998265080323-1)
-* [Select](#)
-	+ [Notifications](#45263998265080323-0)
-	+ [Connection Requests](#45263998265080323-1)

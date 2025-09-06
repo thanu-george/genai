@@ -11,13 +11,12 @@ Fund of Funds \- FFS
 ====================
 
 FFS
----
 
 Fund of Funds for Start\-ups (FFS) was unveiled by the Hon’ble Prime Minister on the January 16, 2016 in line with the Start\-up India Action Plan. It has approved corpus of Rs 10,000 crore for contribution to various Alternative Investment Funds (AIFs) registered with SEBI. Introduced with a focused objective of supporting development and growth of innovation driven enterprises, FFS facilitates funding needs for Start\-ups through participation in capital of SEBI registered Alternative Investment Funds. AIFs supported under FFS shall invest at least twice the contribution out of FFS, in Startups as defined by Government of India under Startup India, Standup India\&nbsp;scheme vide Gazette Notification G.S.R.127 (E) dated February 19, 2019 and as amended from time to time.
 
 Status of FFS as on March 31, 2025\. is as below
 
-**The indicative process is as below for considering applications under FFS.**
+* *The indicative process is as below for considering applications under FFS.**
 
 Venture Capital Investment Committee comprises of VC domain experts drawn across various industry verticals and the current composition of VCIC can be found  [here](/img/../files/article/articlefiles/Current VCIC members_09052022.pdf) 
 
@@ -71,7 +70,7 @@ Raja Kumar
 
 Founder and Managing Partner, Ascent Capital
 
- ⏸ Pause
+ ⏸ 
 
  ▶ Play
 

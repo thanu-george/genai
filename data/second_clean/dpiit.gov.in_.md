@@ -1,7 +1,5 @@
 Department for Promotion of Industry and Internal Trade \| MoCI \| GoI \| Ministry of Commerce and Industry \| GOI
 
-[Jump to navigation](#main-menu)
-
 * 11 years of Pradhan Mantri Jan Dhan Yojana
 * Har Ghar Tiranga
 * Sanchar Saathi
@@ -9,17 +7,6 @@ Department for Promotion of Industry and Internal Trade \| MoCI \| GoI \| Minist
 
 * Janjatiya Gaurav Divas from 15th November 2024 to 26th November 2024
 * Yoga for Women Empowerment
-1. 1
-2. 2
-3. 3
-4. 4
-5. 5
-6. 6
-7. 7
-* [Previous](#)
-* [Next](#)
-
-Pause
 
 * [New Central Sector Scheme for Industrial Development of J\&K](https://jknis.dpiit.gov.in/ "External Site, That Open in a new windows")
 * [Ease of Doing Business](ease-doing-business-0 "Ease of Doing Business Reforms")
@@ -27,22 +14,22 @@ Pause
 * [Intellectual Property Rights](https://ipindia.gov.in/ "External Site, That Open in a new windows")
 * [Logistics Division](/logistics-division-0 "That Open in a new windows")
 
-        ### Hon'ble Prime Minister
+### Hon'ble Prime Minister
 
- #### Shri Narendra Modi
+#### Shri Narendra Modi
 
-        ### Minister of Commerce and Industry
+### Minister of Commerce and Industry
 
- #### Shri Piyush Goyal
+#### Shri Piyush Goyal
 
-        ### Minister of State
+### Minister of State
 
- #### Shri Jitin Prasada
+#### Shri Jitin Prasada
 
 What's New
 ----------
 
- * + [Pre\-Bid meeting Notice for GEM Bid No. GEM/2025/B/6600742 dated 22\-08\-2025](/tenders/pre-bid-meeting-notice-gem-bid-no-gem2025b6600742-dated-22-08-2025 "Pre-Bid meeting Notice for GEM Bid No. GEM/2025/B/6600742 dated 22-08-2025")
+* + [Pre\-Bid meeting Notice for GEM Bid No. GEM/2025/B/6600742 dated 22\-08\-2025](/tenders/pre-bid-meeting-notice-gem-bid-no-gem2025b6600742-dated-22-08-2025 "Pre-Bid meeting Notice for GEM Bid No. GEM/2025/B/6600742 dated 22-08-2025")
 
  Published Date: 01/09/2025 \- 4:17pm
 * + [Request for Proposal (RFP) for hiring an agency to carryout GI Promotion through social media influencers](/tenders/request-proposal-rfp-hiring-agency-carryout-gi-promotion-through-social-media-influencers "Request for Proposal (RFP) for hiring an agency to carryout GI Promotion through social media influencers")
@@ -75,7 +62,7 @@ What's New
 
 [Previous Announcement](/whats-new "View All Previous Announcement")
 
-     * [Anubhuti Kendra](https://anubhutikendra.dpiit.gov.in/ "The in file Open in new window")
+* [Anubhuti Kendra](https://anubhutikendra.dpiit.gov.in/ "The in file Open in new window")
 * [IEM \& IL Service](https://services.dpiit.gov.in/ "The in file Open in new window")
 * [Production data submission](https://dippproductiondata.gov.in/pmsnew/factory_login.php "External site that opens in a new window")
 * [Public Grievances](/public-grievances)
@@ -112,7 +99,7 @@ What's New
   Related Links
 -------------
 
-   * [IFLDP Applicant Handholding through Video Conferencing](/related-links/ifldp-applicant-handholding-through-video-conferencing "IFLDP Applicant Handholding through Video Conferencing")
+* [IFLDP Applicant Handholding through Video Conferencing](/related-links/ifldp-applicant-handholding-through-video-conferencing "IFLDP Applicant Handholding through Video Conferencing")
 * [PESO VC link for the meeting with PESO with Private Persons / stakeholders \- every day from 5:00 PM to 6:00 PM](/related-links/peso-vc-link-meeting-peso-private-persons-stakeholders-every-day-500-pm-600-pm "PESO VC link for the meeting with PESO with Private Persons / stakeholders - every day from 5:00 PM to 6:00 PM")
 * [Revised application format for registration of bidders under rule 144 (xi) GFR](/related-links/revised-application-format-registration-bidders-under-rule-144-xi-gfr "Revised application format for registration of bidders under rule 144 (xi) GFR")
 * [Cement Information System (CIS)](/related-links/cement-information-system-cis "Cement Information System (CIS)")
@@ -121,12 +108,7 @@ What's New
 * [Website addresses of states](/links-interest/website-addresses-states "Website addresses of states")
 * [Press and Electronics Media](/links-interest/press-and-electronics-media " Press and Electronics Media")
 
-     * 
-
-* [Previous](#)
-* [Next](#)
-
-Pause     
+* 
 
 Twitter Feeds
 -------------
@@ -136,5 +118,3 @@ Twitter Feeds
  [Tweets by Standup\_Startup](https://twitter.com/startupindia)
 
  [Tweets by EODB\_India](https://twitter.com/makeinindia)
-
-  [Go to Previous](# "Previous")[Go to next](# "Next")[Link Loading](#)  [Frame Previous Link](# "Previous")[Frame Next Link](# "Next")[Bottom Navigation Close](# "Close")[Bottom Navigation Zoom](#)[Bottom Navigation Zoom Out](#)[Pause Light Show](# "Pause Slideshow")[Play Light Show](# "Play Slideshow")

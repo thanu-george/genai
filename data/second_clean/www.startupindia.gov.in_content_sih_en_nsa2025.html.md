@@ -36,163 +36,83 @@ Categories for National Startup Awards 5\.0
 The fifth edition of National Startup Awards \- NSA 5\.0 aims to recognize, reward, promote and offer exclusive handholding support to a diverse set of startups. Your feedback for the startups awaits! Select the startup from the dropdown below
  and submit your feedback today.
 
-### Click here to know more
-
 ### Circular Economy Innovator Award
-
-### Click here to know more
 
 ### Supply Chain Startup of the Year Award
 
-### Click here to know more
-
 ### Fintech Revolution Catalyst Award
-
-### Click here to know more
 
 ### Inclusive Design Excellence Award
 
-### Click here to know more
-
 ### Bootstrapped Startup Award
-
-### Click here to know more
 
 ### Best Deeptech Startup Award
 
-### Click here to know more
-
 ### F\&B Trailblazer Award
-
-### Click here to know more
 
 ### Agri Innovation Award
 
-### Click here to know more
-
 ### Health\-Tech Excellence Award
-
-### Click here to know more
 
 ### Visionary Award for Infrastructure Excellence
 
-### Click here to know more
-
 ### Women\-led Innovator Award
-
-### Click here to know more
 
 ### Aspire Award: Building from the Heart of India
 
-### Click here to know more
-
 ### Make in India Excellence Award
-
-### Click here to know more
 
 ### Innovation Trailblazers from the North\-East and Hilly States and Union Territories
 
-### Click here to know more
-
 ### Rising Star Award
-
-### Click here to know more
 
 ### NextGen Innovator
 
-### Click here to know more
-
 ### Humanitarian Impact Award
-
-### Click here to know more
 
 ### Creative Industry Disruptor Award
 
-### Click here to know more
-
 ### Urban Mobility Excellence Award
-
-### Click here to know more
 
 ### Community Development Catalyst Award
 
-### Click here to know more
-
 ### Circular Economy Innovator Award
-
-### Click here to know more
 
 ### Supply Chain Startup of the Year Award
 
-### Click here to know more
-
 ### Fintech Revolution Catalyst Award
-
-### Click here to know more
 
 ### Inclusive Design Excellence Award
 
-### Click here to know more
-
 ### Bootstrapped Startup Award
-
-### Click here to know more
 
 ### Best Deeptech Startup Award
 
-### Click here to know more
-
 ### F\&B Trailblazer Award
-
-### Click here to know more
 
 ### Agri Innovation Award
 
-### Click here to know more
-
 ### Health\-Tech Excellence Award
-
-### Click here to know more
 
 ### Visionary Award for Infrastructure Excellence
 
-### Click here to know more
-
 ### Women\-led Innovator Award
-
-### Click here to know more
 
 ### Aspire Award: Building from the Heart of India
 
-### Click here to know more
-
 ### Make in India Excellence Award
-
-### Click here to know more
 
 ### Innovation Trailblazers from the North\-East and Hilly States and Union Territories
 
-### Click here to know more
-
 ### Rising Star Award
-
-### Click here to know more
 
 ### NextGen Innovator
 
-### Click here to know more
-
 ### Humanitarian Impact Award
-
-### Click here to know more
 
 ### Creative Industry Disruptor Award
 
-### Click here to know more
-
 ### Urban Mobility Excellence Award
-
-### Click here to know more
 
 ### Community Development Catalyst Award
 

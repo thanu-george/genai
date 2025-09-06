@@ -5,7 +5,7 @@ Online Courses for Entrepreneurs
 
 Access an array of courses made available for startups of all stages
 
-**What We Offer**
+* *What We Offer**
 =================
 
 A curated collection of online courses for you to gain a competitive edge in the market. Get hands\-on learning courses that are extraordinary and free of cost, ranging from Programming, Security, Accounting \& Finance to Management and Entrepreneurship, available for all registered users on the Startup India platform.

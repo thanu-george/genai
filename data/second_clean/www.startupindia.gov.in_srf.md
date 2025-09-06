@@ -1,45 +1,5 @@
 States Startup Ranking
 
-[](javascript:void(0))
-
----
-
-[HOME](#homePage)
-
----
-
-[ABOUT](#aboutUs)
-
----
-
-[KNOWLEDGE CENTER](#WhatWeDo)
-
----
-
-[GALLERY](Galary.html)
-
----
-
-[IN THE MEDIA](News.html)
-
----
-
-[RESULTS](#resultPage)
-
----
-
-[DASHBOARD LOGIN](./portal/login_2024.html)
-
----
-
-[HOME »](#homePage)
-[ABOUT»](#aboutUs)
-[KNOWLEDGE CENTER »](#WhatWeDo)
-[GALLERY »](#GallerySection)
-[IN THE MEDIA »](#NewsSection)
-[RESULTS »](#resultPage)
- [DASHBOARD LOGIN »](./portal/login_2024.html)
-
 States' Startup Ecosystem Ranking
 ---------------------------------
 
@@ -180,7 +140,7 @@ ACTION POINTS
 
 ### 5
 
-**3** INTERNATIONAL \& **2** REGIONAL  
+* *3** INTERNATIONAL \& **2** REGIONAL  
 
  CAPACITY BUILDING WORKSHOPS
 
@@ -299,26 +259,30 @@ Click to download report
  [click to download](images/SRF_2022_Result_page/Compendium_14_01_2024.pdf) 
 Click to download report
 
-Arunachal Pradesh -------------------
+Arunachal Pradesh X
+-------------------
 
 ##### Government Notification on Nodal Team and Policy Formulation
 
 * Arunachal Pradesh is a nascent startup ecosystem, the Startup India team is providing support in developing institutionalized mechanisms such as the formation of a nodal team, and the development of a dedicated startup policy based on the unique needs of the State's startup ecosystem
 
-Goa -----
+Goa X
+-----
 
 ##### States
 
 * Startup India states' team has shared inputs on the proposed StartUp procurement policy
 
-Uttar Pradesh ---------------
+Uttar Pradesh X
+---------------
 
 ##### Policy Modification and Guidance in Building a Nodal Team
 
 * Startup India provided extensive strategic support to UP in modifying its Startup Policy to introduce the 2020 version addressing the evolving needs of the State's startup ecosystem
 * Startup India conceptualized the structure of the State's startup nodal team, including defining roles and responsibilities of different officers to guide the nodal department in the formation of a dedicated nodal team for startups
 
-Tamil Nadu ------------
+Tamil Nadu X
+------------
 
 ##### States Startup Portal
 
@@ -329,13 +293,15 @@ Tamil Nadu ------------
 * Startup India prepared a detailed note on various types of incorporation that a state govt. can form to drive the Startup and innovation activities. The team has prepared a note on the incorporation of a nodal entity that covers eligibility, advantages, disadvantages, etc., and it was shared with Startup Tamil Nadu.
 * Startup India has conceptualized the structure of the State's startup nodal team, including defining roles and responsibilities of different officers to guide the nodal department in the formation of a dedicated nodal team for startups.
 
-Telangana -----------
+Telangana X
+-----------
 
 ##### States Startup Portal
 
 * Startup India states' team has shared inputs on specific features and dashboards that can be implemented during the revamp of their TSIC website i.e., <http://startup.telangana.gov.in>
 
-Odisha --------
+Odisha X
+--------
 
 ##### Incorporation And Nodal Team
 
@@ -344,6 +310,8 @@ Odisha --------
 
 Andaman \& Nicobar Islands
 --------------------------
+
+X
 
 ##### Government Notification on Nodal Team and Policy Formulation
 

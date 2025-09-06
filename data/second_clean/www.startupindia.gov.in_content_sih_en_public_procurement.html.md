@@ -11,7 +11,11 @@ Bid for government tenders and become a seller to the Government through the Gov
 
  Application form for startups for submitting public procurement related grievance
 
-**Disclaimer: Please note, the General Financial Rules 2017 apply only to the Central Government Ministries, Departments, and associated CPSEs. State Governments may have different procurement norms. For details on State procuring rules, kindly refer to the [State\-level Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html).**
+* *Disclaimer: Please note, the General Financial Rules 2017 apply only to the Central Government Ministries, Departments, and associated CPSEs. State Governments may have different procurement norms. For details on State procuring rules, kindly refer to the [State\-level Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html).**
+
+ 
+
+ 
 
 [CREATE NEW ISSUE](/content/sih/en/public-grievance.html)
 
@@ -21,25 +25,27 @@ Bid for government tenders and become a seller to the Government through the Gov
 
 [What is Public Procurement?](#1545892390216)
 
-**Governments, just like private companies, have to buy goods and services for their operational needs.**
+* *Governments, just like private companies, have to buy goods and services for their operational needs.**
 
-**Public procurement refers to the process by which governments and state\-owned enterprises purchase goods and services from the private sector. As public procurement utilises a substantial portion of taxpayers' money, governments are expected to follow strict procedures to ensure that the process is fair, efficient, transparent and minimises wastage of public resources.**
+* *Public procurement refers to the process by which governments and state\-owned enterprises purchase goods and services from the private sector. As public procurement utilises a substantial portion of taxpayers' money, governments are expected to follow strict procedures to ensure that the process is fair, efficient, transparent and minimises wastage of public resources.**
 
  2 
 
 [How Can Public Procurement Benefit My Startup?](#1545892390216)
 
-**In India, public procurement (government tenders) can also present useful pilot opportunities for startups that have not yet been able to gain traction in the private sector.**
+* *In India, public procurement (government tenders) can also present useful pilot opportunities for startups that have not yet been able to gain traction in the private sector.**
 
-**Conversely, opening government tenders up to startups improves the choices available to government bodies since startups are often more agile than corporate vendors and can provide cheaper, more innovative products and services.**
+* *Conversely, opening government tenders up to startups improves the choices available to government bodies since startups are often more agile than corporate vendors and can provide cheaper, more innovative products and services.**
 
  3 
 
 [What is GeM and what is GeM Startup Runway?](#1545892390216)
 
-**Government e Marketplace (GeM) is an online procurement platform for government ministries and departments, and the most widely used channel for public procurement in India.  MSMEs, DPIIT recognised startups and other private companies can register on GeM as sellers and sell their products and services directly to government entities.**
+* *Government e Marketplace (GeM) is an online procurement platform for government ministries and departments, and the most widely used channel for public procurement in India.  MSMEs, DPIIT recognised startups and other private companies can register on GeM as sellers and sell their products and services directly to government entities.**
 
-**GeM Startup Runway is a new initiative launched by GeM to allow startups to reach out to the universe of government buyers by offering innovative products that are unique in design, process and functionality.**
+* *GeM Startup Runway is a new initiative launched by GeM to allow startups to reach out to the universe of government buyers by offering innovative products that are unique in design, process and functionality.**
+
+ 
 
 Register On GeM
 ---------------
@@ -90,14 +96,22 @@ DPIIT recognised startups have facetime opportunity with 50,000\+ Government buy
 What is CPPP and its benefits ?
 ===============================
 
-**The Central Public Procurement Portal (CPPP) is the Government of India’s portal that facilitates all the Central Government Departments, Organisations, Autonomous Bodies, and CPSEs to publish their NIT, tender enquiries, contract award details, and their corrigenda.**
+* *The Central Public Procurement Portal (CPPP) is the Government of India’s portal that facilitates all the Central Government Departments, Organisations, Autonomous Bodies, and CPSEs to publish their NIT, tender enquiries, contract award details, and their corrigenda.**
 
-**The primary objective of this portal is to provide single\-point access to the information on procurements made across various Ministries and Departments and all the organisations under them. Startups can now register on CPPP and become Preferred Bidders in Public Orders and get exemptions on prior experience, prior turnover, and earnest money deposit requirements on [https://eprocure.gov.in](https://eprocure.gov.in/cppp/). A free and fair environment provides startups with a level playing field amongst other competitors.**
+* *The primary objective of this portal is to provide single\-point access to the information on procurements made across various Ministries and Departments and all the organisations under them. Startups can now register on CPPP and become Preferred Bidders in Public Orders and get exemptions on prior experience, prior turnover, and earnest money deposit requirements on [https://eprocure.gov.in](https://eprocure.gov.in/cppp/). A free and fair environment provides startups with a level playing field amongst other competitors.**
 
 * [e\-tenders](https://etenders.gov.in/eprocure/app)
 * [e\-procure](https://eprocure.gov.in/eprocure/app)
 
-**In order to facilitate easier bidder registration for startups on CPPP, the detailed guidelines for the same are attached [here](/content/dam/invest-india/Templates/public/Bidder%20Enrollment_Steps_Updated.pdf).**
+ 
+
+* *In order to facilitate easier bidder registration for startups on CPPP, the detailed guidelines for the same are attached [here](/content/dam/invest-india/Templates/public/Bidder%20Enrollment_Steps_Updated.pdf).**
+
+ 
+
+ 
+
+ 
 
  Relaxations in Public Procurement
 
@@ -142,13 +156,15 @@ MoD has launched the procurement procedure ‘Make\-II’ with the objective of 
 * ### Transfer Development Fund
 
 Technology Development Fund (TDF) has been established to promote self\-reliance in Defence Technology as a part of the 'Make in India' initiative. It is a programme of MoD (Ministry of Defence) executed by DRDO, meeting the requirements of Tri\-Services, Defence Production, and DRDO. The scheme will cover funding through provision of grants to industry that may work in collaboration with academia or research institutions to carry out innovation, research, and development. After the development of the prototype, the product shall be commercialised by DRDO for procurement.
-* ### iDE/ SPARK II
+* ### iDEX / SPARK II
 
-MoD is identifying innovation in defence space through iDEthrough investments made under the SPARK II. As per the guidelines, the applicant startup has at least an equivalent amount of financial or in\-kind contribution for developing the product. The matching contribution can come from the founders of the company, venture investors, banks, or other funding partners who are acceptable to DIO\-iDE. The investments under the iDEprogram are proposed in the following stages:
+MoD is identifying innovation in defence space through iDEX through investments made under the SPARK II. As per the guidelines, the applicant startup has at least an equivalent amount of financial or in\-kind contribution for developing the product. The matching contribution can come from the founders of the company, venture investors, banks, or other funding partners who are acceptable to DIO\-iDEX. The investments under the iDEX program are proposed in the following stages:
+
+ 
 
 	+ Seed stage support – up to INR 2\.5 Cr per startup, to be provided as grants/convertible debt/simple debt/equity to startups with a working proof concept of their technology, and with the potential of developing useful products and emerging as a supplier to Indian Tri\-services.
 	+ Pre\-Series A/Series A investments—up to INR 10 crore per startup, to be provided to startups as grants/convertible debt/simple debt/equity whose technology has already been validated by one of the Forces under the Ministry of Defence and needs the resources to scale up the solution.
-	+ Follow\-on investments: iDE\-DIF should retain a provision for higher investments without publicising this extensively to ensure that DIF can make specific, high\-requirement investments when required.
+	+ Follow\-on investments: iDEX\-DIF should retain a provision for higher investments without publicising this extensively to ensure that DIF can make specific, high\-requirement investments when required.
 
 [Link to the recent Defence Acquisition Procedure released by the Ministry of Defence.](https://www.mod.gov.in/dod/sites/default/files/DAP2030new.pdf)
 
@@ -180,11 +196,15 @@ The Ministry of Railways has drafted a Policy on Unsolicited Non\-Fare Revenue P
 
 For more information please visit [here](http://www.indianrailways.gov.in/railwayboard/uploads/directorate/traffic_comm/Comm_Cir_2017/CC_02_2017.PDF).
 
+ 
+
  1 
 
 [Kerala](#1487579163290)
 
 The Government of Kerala has established various Procurement Models via the Kerala Startup Mission (KSUM). KSUM facilitates procurement of innovative products and services from startups through the following ways:
+
+ 
 
 * **Direct Procurement Model:**The Government of Kerala has setup a process to procure products from startups from INR 5 Lakh to INR 20 Lakh through Direct Procurement Model where the startup can submit a proposal to the Government Department or KSUM that shall be considered for procurement if found suitable. The purchase of products beyond 100 Lakh shall be done through Limited Tendering process.
 
@@ -194,13 +214,19 @@ The Government of Kerala has established various Procurement Models via the Kera
 
 The detailed information and documents on these models can be accessed [here](https://startupmission.kerala.gov.in/tender).
 
+ 
+
  2 
 
 [Andhra Pradesh](#1487579167654)
 
 The Government of Andhra Pradesh has created a Suo Moto model of procurement where they invite innovative startup applicants to create and submit a proposal to Government Departments. These proposals are evaluated by Andhra Pradesh Innovation Society and are then presented to various Government Departments for procurement.
 
+ 
+
 The companies outside Andhra Pradesh can also apply under this scheme and are evaluated by the evaluation committee. If their product/solution is selected and they do not have a presence in A.P, they shall open a development centre in Andhra Pradesh. Assistance under this scheme will be provided only on opening of such development centre in A.P.
+
+ 
 
 Products and solutions, valued upto INR 50 Cr collectively, will be selected annually, by the Competent Authority, for implementation within GoAP. The selected proposals get a work order from GoAP of upto INR 5 Cr. For more information please visit [here](http://www.apinnovationsociety.com/general_services.php).
 
@@ -210,7 +236,11 @@ Products and solutions, valued upto INR 50 Cr collectively, will be selected ann
 
 The Government of Rajasthan has created an online platform, Challenge for Change, to provide work orders to startups for upto INR 1 Cr. Various Government Departments of Rajasthan have provided problems statements in the domains of Safe Drinking Water, Wool Industry, Crop Cultivation, Detection of Quarry and Mine blasts etc. that can be solved by the innovative offerings of startups.
 
+ 
+
 The startups can apply online to participate in the challenge and apply for the stated problem statements. For more information please visit [here](https://change.rajasthan.gov.in/).
+
+ 
 
  4 
 
@@ -218,12 +248,20 @@ The startups can apply online to participate in the challenge and apply for the 
 
 Odisha State Government notified a Government order dated 13\.3\.2018 which has included following provisions for Startups in public procurement:
 
+ 
+
 * There would not be any minimum turnover requirement from Micro, Small Enterprises and Startups in public procurement process,
 * All State Departments and agencies will additionally relax condition of prior experience with respect to Startups in all public procurement subject to meeting of quality and technical specifications.
 
+ 
+
 Further, State Government’s Finance Department has exempted all eligible Startups and local MSEs from submission of Earnest Money Deposit (EMD) while participating in tenders of Government Department and agencies. The performance security (if any) has been reduced to 25% of the prescribed amount for Startups. Related Government orders have also been uploaded on [Startup Odisha Portal](https://startupodisha.gov.in/?page_id=1233).  
 
+ 
+
 The above provisions are followed in\-principle as State Government Departments have also included above clauses in their procurement tenders.
+
+ 
 
  5 
 
@@ -231,10 +269,14 @@ The above provisions are followed in\-principle as State Government Departments 
 
 Government of Gujarat, vide Industries and Mines Department Resolution on 11\.4\.2018 removed the criteria of "prior experience", “turnover”, “tender fee” and “submission of EMD” for encouraging Startups to participate in public procurement. The instructions to all the State Department is as below:
 
+ 
+
 * Exemption is given for obtaining details of ‘turnover’ for things and products under Micro and Small units \& Startups. Hence, the condition may not be kept by the purchase officer
 * Exemption is given for ‘prior experience’ in tender document for Micro and Small units \& Startups. The tender will not include any such condition of prior experience
 
 The State Government has further directed all the offices to scrupulously follow the above mentioned provisions. The State departments have also included above clauses in their respective tenders. Further details on notification is provide on [Startup Portal](http://www.startupgujarat.in/notificationin.htm) of Gujarat.
+
+ 
 
  6 
 
@@ -242,9 +284,15 @@ The State Government has further directed all the offices to scrupulously follow
 
 Government of Haryana has done away with key qualification criteria of ‘turnover’ and ‘experience’ for Startups participating in public procurement process. The notification ‘Concessions/ Benefits in Public Procurement to Startups/ First Generation Entrepreneurs in the State’ was released by the State Department of Industries \& Commerce on 3rd January 2019\. According to the notification, startups will be treated at par with the MSEs in public procurement process subject to meeting other technical specifications as part of qualifying requirements for the procurement.
 
+ 
+
 Startups based in the state, having turnover of less than INR 25 crore, would be eligible to participate along with big companies. As per estimates, around 750 startups are likely to benefit with the relaxation in norms. As per estimates, around 750 startups are likely to benefit with the relaxation in norms.
 
+ 
+
 Additionally, if their quoted prices are within band of L1 (lowest bidder) plus 15% or in plain terms if Startup quoted prices are higher by 15% as compared to the lowest bidder and Startup is ready to match with the lowest bidder, they will be eligible to bag the contract subject to fulfillment of other terms and conditions.
+
+ 
 
 Besides this, the government has exempted the startups from payment of tendering fee and Earnest Money Deposit (EMD) subject to conditions as per eligibility.
 
@@ -296,9 +344,17 @@ BEL has extended procurement relaxations in special categories earmarked for s
 
 The Airport Authority of India has established a Startup Grand Challenge Model offering certain incentives to shortlisted ideas post a series of evaluations. The shortlisted ideas are then further invited to submit a proposal for procurement which is challenged and evaluated by a counterbidding mechanism.
 
+ 
+
 A system of counter bidding may be deployed for procurement from startups for innovative products shortlisted through the challenge. The startups would need to submit an online proposal detailing out the uniqueness of their product, the value add for airport etc. Based on the RFP, AAI will call for bids from other parties for the procurement within a fixed timeline. Those bidders who will be able to match the technical part with lower financial bids will be called along with the startup (with original proposal) to go for second round of bidding. The bidder with the lowest bid, after the second round of bidding, will be selected. This process will be time bound and will be closed within a month of receiving the initial proposal.
 
+ 
+
 [For more details please click](https://www.bel-india.in/ContentPage.aspx?MId=32&CId=1413&LId=1&link=1413)[here](https://www.aai.aero/en/important-links/aai-startup-initiative-innovate-airports)
+
+ 
+
+ 
 
  Frequently Asked Questions
 
@@ -312,7 +368,11 @@ A system of counter bidding may be deployed for procurement from startups for in
 
 It is mandatory for all Ministries/ Departments of the Central Government, their attached and Subordinate Offices and Autonomous/Statutory Bodies to publish their tender enquiries, corrigenda thereon and details of bid awards on the Central Portal for Public Procurement ([eprocure.gov.in](https://eprocure.gov.in/cppp/)). You may visit the website to get access to all the tenders across India.
 
+ 
+
 It is also a good idea to visit Government e Marketplace ([gem.gov.in](http://gem.gov.in)) to view tenders.
+
+ 
 
  2 
 
@@ -320,15 +380,19 @@ It is also a good idea to visit Government e Marketplace ([gem.gov.in](http://ge
 
 The GFRs 2017 have defined 5 kinds of tenders as below:
 
-**i.  Advertised Tender Enquiry**
+ 
+
+* *i.  Advertised Tender Enquiry**
 
 Invitation to tenders by advertisement should be used for procurement of goods of estimated value of Rs. 25 lakhs and above. In such cases, the tender enquiry should be advertised on the Central Public Procurement Portal (CPPP) at www.eprocure.gov.in and on GeM. An organisation having its own website should also publish all its advertised tender enquiries on the website.
 
-**ii.   Limited Tender Enquiry**
+* *ii.   Limited Tender Enquiry**
 
 In a limited tender enquiry, various vendors (more than three) are empaneled by the Government Department for goods that are procured regularly by the Department. Usually Limited Tender Enquiry is adopted when the estimated value of the goods to be procured is less than INR 25 Lac.
 
-**iii.   Two\-Stage Bidding**
+ 
+
+* *iii.   Two\-Stage Bidding**
 
 For purchasing high\-value plant, machinery, etc. of a complex and technical nature, bids may consist of two parts, as below:
 
@@ -336,7 +400,9 @@ a. Technical bid consisting of all technical details along with commercial terms
 
 b. Financial bid indicating item\-wise price for the items mentioned in the technical bid.
 
-**iv.   Single Tender Enquiry**
+ 
+
+* *iv.   Single Tender Enquiry**
 
 Procurement from a single source may be resorted to in the following circumstances:
 
@@ -346,7 +412,9 @@ b. In case of an emergency, when it is necessary to purchase the required goods 
 
 c. When specific standardised machines or spare parts have to be acquired in order to be compatible with existing sets of equipment (on the advice of a competent technical expert and approved by the relevant authority).
 
-**v.   Electronic Reverse Auctions**
+ 
+
+* *v.   Electronic Reverse Auctions**
 
 An Electronic Reverse Auction is a type of online auction in which the traditional roles of buyer and seller in an auction are reversed. In an ordinary auction, buyers compete to obtain goods or services by offering increasingly higher prices. Conversely, in an electronic reverse auction, there is one buyer and many potential sellers. The sellers compete to obtain business from the buyer, and prices will typically decrease as the sellers underbid each other.
 
@@ -362,7 +430,11 @@ The pre\-qualification criteria is the eligibility criteria which enables the
 
 Pre\-bid meetings are gatherings scheduled after an invitation for bids or request for proposals is advertised. The objective of pre\-bid meetings is to explain the details of the solicited documents to the interested bidders. 
 
+ 
+
 Prospective bidders are permitted to request clarifications on the invitation for bids or request for proposals by a stipulated date, and the pre\-bid meeting is held within that period.
+
+ 
 
  5 
 
@@ -383,6 +455,8 @@ Submitted tenders are evaluated against the awarding criteria described in the t
 [Q. Which Departments should be contacted for public procurement queries?](#1624444884902)
 
 Each Government Department has a finance/procurement \& sales wing that conducts the procurement activities for the entire department. This wing may have a varying purpose in Central vs State departments, but usually they should be the point of contact for procurement related queries. You can usually find the contact information for the relevant office on the Contact Us page of that Government Department's website.
+
+ 
 
 ### Disclaimer
 

@@ -16,7 +16,11 @@ The process of conducting inspections shall be made more meaningful and simple! 
 
 The Startups may self\-certify compliance in respect of the following 
 
-**Labour Laws:**
+ 
+
+* *Labour Laws:**
+
+ 
 
 Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act,1996
 
@@ -36,7 +40,9 @@ The Trade Unions Act,1926
 
 The Industrial Employment (Standing Orders),1946
 
-**Environment Laws:**
+ 
+
+* *Environment Laws:**
 
 Ministry of Environment, Forest \& Climate Change (MoEF\&CC) has published a list of 36 white category industries. Startups falling under the “White category” would be able to self\-certify compliance in respect of 3 Environment Acts – 
 
@@ -46,12 +52,12 @@ The Water (Prevention \& Control of Pollution) Cess (Amendment) Act, 2003
 
 The Air (Prevention \& Control of Pollution) Act, 1981
 
-In order to self\-certify compliance, you may log on to ‘Shram Suvidha Portal’ by clicking below:  
+ 
 
----
+In order to self\-certify compliance, you may log on to ‘Shram Suvidha Portal’ by clicking below:  
 
 [Shram Suvidha Portal](https://shramsuvidha.gov.in/startUp.action)
 
-**[Click here to download Self\-Certification formats for compliance under Labour Laws](https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/notification/notification_Self_certificationformatsforcomplianceundertheLabourLaws.pdf)**
+ 
 
----
+* *[Click here to download Self\-Certification formats for compliance under Labour Laws](https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/notification/notification_Self_certificationformatsforcomplianceundertheLabourLaws.pdf)**

@@ -43,7 +43,7 @@ Launch Date: 02/04/2020](/content/dam/invest-india/SCO/Islamic%20Republic%20of%2
 
 [### Russian Federation
 
-**Russian** Federation  
+* *Russian** Federation  
 
 Launch Date: 02/04/2020](/content/sih/en/coming-soon.html)
 
@@ -75,13 +75,21 @@ Russian: SCO Report Indian Engagements Startups and Innovation
 
 All Member States agreed to create a Special Working Group for Startups and Innovation (SWG) at the Summit of SCO Heads of State in Samarkand, Uzbekistan, on 16th September 2022\. Given the importance of innovation and entrepreneurship in driving and diversifying an economy, India proposed this initiative in 2020 to create a new pillar of cooperation between the SCO Member States. The SWG was created with the vision of fostering collaboration among SCO Member States, to not only benefit the startup ecosystem but also accelerate regional economic development. After multiple rounds of meetings chaired by the Department for Promotion of Industry and Internal Trade (DPIIT), Government of India, the Member States decided to approve and adopt the Regulations of the SWG to be permanently chaired by India in SCO. 
 
+ 
+
 DPIIT has organised various initiatives for the startup ecosystems of the SCO Member States since 2020, including three editions of the SCO Startup Forum. By leading such engagements, India undertook an opportunity to expand the innovation footprint, knitting the whole ecosystem together and inspiring other SCO Member States to take up similar programs. 
+
+ 
 
 ### SCO Startup Forum
 
 The SCO Startup Forum is a platform for the stakeholders from the startup ecosystems from all SCO Member States to interact and collaborate. The entrepreneurial activities aim to empower the local startup communities in the SCO Member States. The SCO Startup Forum aims to create multilateral cooperation and engagement for startups among the SCO Member States. This engagement will empower the local startup ecosystems in the SCO Member States.
 
+ 
+
 The following are the objectives of the engagement:  
+
+ 
 
 * Sharing of best practices to promote entrepreneurship and innovation to build knowledge\-exchange systems
 * Bringing Corporates and Investors across to work closely with startups and provide local entrepreneurs with much\-needed support and market access
@@ -92,6 +100,8 @@ The following are the objectives of the engagement:
 ### SCO Startup Forum 3\.0
 
 DPIIT organised the SCO Startup Forum 3\.0 on 11th April 2023 in New Delhi, India. The forum saw physical participation from the SCO Member States. Shri Som Parkash, Hon’ble Minister of State for Commerce and Industry, delivered the keynote address, highlighting the role of the Startup Ecosystem in the development of a nation and past initiatives such as Startup Forum 2020, Startup Forum 2021, and SCO Mentorship Series for SCO Member States. Smt. Manmeet Kaur Nanda, Joint Secretary, Department for Promotion of Industry and Internal Trade, Ministry of Commerce \& Industry, addressed the delegation about India’s Startup Journey and various initiatives undertaken by DPIIT to help startups scale up. The delegates later attended a workshop on ‘Role of Bilateral and Multilateral Engagement in Developing Startup Ecosystem’ followed by an incubator visit at IIT Delhi. 
+
+ 
 
 * [SCO Startup Forum](#section-1)
 * [SCO Startup Forum 2021](#section-2)
@@ -107,6 +117,8 @@ After the success of the first SCO Startup Forum, DPIIT proposes to organize the
 [SCO Showcase](/sco/showcase)
 
 ### 
+
+ 
 
 After the success of the first\-ever SCO Startup Forum launched in 2020, DPIIT hosted the second edition of the SCO Startup Forum on the 27th–28th of October 2021\. The SCO Startup Forum 2021 builds on the foundation laid last year for multilateral cooperation and engagement for startups among the SCO Member States. Hon’ble Minister of State, Commerce, and Industry, Shri Som Parkash, SCO Secretary\-General, His Excellency Vladimir Norov, and Secretary, DPIIT, Shri Anurag Jain, were among the dignitaries present during the launch of the SCO Startup Forum 2021\. 
 
@@ -179,6 +191,8 @@ To encourage global corporations and investors to work closely with startups and
 ------------------------------
 
 To facilitate cross\-border incubation and acceleration that enable startups to explore international markets and get focused mentorship, deliberating over Multilateral Incubator Programs is a must. In Forum 2021, a session focusing on the Multilateral Incubator Program has been organised with the aim of sharing the nuances of setting up an incubation centre to help startups scale up their ideas. This session focuses on how the Government bodies can support incubators through fiscal and non\-fiscal incentives. Further, a 30\-minute virtual tour will be conducted by an Indian Incubator, focusing on the building blocks of setting up an incubator and the different elements of an incubation centre for the relevant stakeholders of the SCO Member States.
+
+ 
 
  SCO Startup Forum 1\.O
 
@@ -324,13 +338,15 @@ Beginning of dialog window. Escape will cancel and close the window.
 
 TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi\-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans\-SerifMonospace Sans\-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
 
-**Knowledge Exchange Workshops**
+* *Knowledge Exchange Workshops**
 
-**Session 6: Idea to Minimum Viable Product**
+ 
+
+* *Session 6: Idea to Minimum Viable Product**
 
 The session focused on aspiring entrepreneurs from the SCO Member States and provided them with mentorship and guidance on how to convert an idea into a minimum viable product. 
 
-**Session 7: Go\-to\-Market Strategy**
+* *Session 7: Go\-to\-Market Strategy**
 
 The session focused on the ingredients of a robust go\-to\-market strategy with an emphasis on internationalisation for startups. 
 
@@ -344,31 +360,43 @@ Beginning of dialog window. Escape will cancel and close the window.
 
 TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi\-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans\-SerifMonospace Sans\-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
 
-**Multilateral Incubator Programs**
+* *Multilateral Incubator Programs**
 
-**Session 8: Building Successful Incubators**
+ 
+
+* *Session 8: Building Successful Incubators**
 
 The session focused on building blocks of setting up an incubator and the different elements of an incubation centre for the relevant stakeholders of the SCO Member States
 
-**Session 9: Harnessing Government’s Support for Incubators**
+* *Session 9: Harnessing Government’s Support for Incubators**
 
 The initiatives and activities adopted by the Government bodies to support incubators were highlighted in the session.
 
-**Meeting with SCO Ambassadors**
+* *Meeting with SCO Ambassadors**
+
+ 
 
 DPIIT organised a meeting with the ambassadors of the SCO Member States, Dialogue Partners, and Observer States on 25th June 2022\. The Ambassadors and their teams from 15 countries visited the Invest India office to discuss cross\-border startup engagements and the SCO Startup Forum 3\.0\. The discussions revolved around the mentorship program to be organised by Startup India. Some countries shared their best practices as well. For example, Innovation Factories in Iran, the Tashkent IT Park in Uzbekistan, and Tax provisions in Kazakhstan, among others. The Startup India website provides real\-time translation in 11 languages followed in the participant countries – which was an eye\-catcher to all the foreign delegates. The meeting was succeeded by a showcase wherein all the ambassadors tried out the products made by Indian innovators.
 
- **SCO Mentorship Series**
+ 
+
+* *SCO Mentorship Series**
 
 A 3\-month long virtual mentorship series ‘Starting\-Up’ was organised for the nominated startups, to build capacity among the SCO Startup founders, from July to September 2023\. This series provided guidance and mentorship to aspiring entrepreneurs. The Virtual mentorship workshops comprised of 1\-hour long sessions every week over 3 months i.e. a total of 12 sessions. The workshops highlighted important fundamental concepts and building blocks of successful startups. Startups were individually handheld, and their queries were addressed by experts over the 3 months. A total of 100\+ hours of mentorship was provided to the startups.
 
-**Below mentioned is the structure of the mentorship series:**
+ 
+
+* *Below mentioned is the structure of the mentorship series:**
+
+ 
 
 * Month 1\- Entrepreneurship Fundamentals: The 4 sessions focused on highlighting essential concepts such as developing a business model from an idea, identifying the target audience, creating a pitch deck, etc.
 * Month 2\- Entrepreneurship Intermediate: The next 4 sessions were an advanced version of the previous session. Concepts such as term sheets, generating revenue, important financial metrics, diversifying business, raising capital, etc were covered in these sessions.
 * Month 3\- Entrepreneurship Advanced: The last 4 sessions were focused on how to scale up a startup. Concepts such as building up teams, scaling business operations, and going global were covered in these sessions.
 
 ### **Startup Showcase**
+
+ 
 
 Startup Showcase was custom built to provide a holistic and interactive 3D environment for the attendees, providing the look and feel of a real startup event. The platform provided life\-like access to the exhibit by the startups and included features such as live chat, videos, brochures, social media links, etc.
 
@@ -384,13 +412,15 @@ Beginning of dialog window. Escape will cancel and close the window.
 
 TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi\-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans\-SerifMonospace Sans\-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
 
-**Sharing of Best Practices**
+* *Sharing of Best Practices**
 
-**Session 1: Foundation of a Robust Startup Ecosystem: A Startup Policy**
+ 
+
+* *Session 1: Foundation of a Robust Startup Ecosystem: A Startup Policy**
 
 The session focused on highlighting the role of a dedicated startup policy in nurturing local innovations and the startup ecosystem.
 
-**Session 2: Promoting Women Entrepreneurship**
+* *Session 2: Promoting Women Entrepreneurship**
 
 The session revolved around enhancing the participation of women in the global startup ecosystem and sharing the experiences of successful female entrepreneurs from various countries.
 
@@ -404,9 +434,11 @@ Beginning of dialog window. Escape will cancel and close the window.
 
 TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi\-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans\-SerifMonospace Sans\-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
 
-**Corporate \& Investor Engagement**
+* *Corporate \& Investor Engagement**
 
-**Session 3: Elevator Pitch and Feedback**
+ 
+
+* *Session 3: Elevator Pitch and Feedback**
 
 The session on Corporate and Investor Engagement aimed to aid startups from the SCO Member States to improve their pitching session. It provided a platform to startups from the SCO Member States to deliver an elevator pitch to a Jury of renowned professionals and investors.
 
@@ -420,13 +452,15 @@ Beginning of dialog window. Escape will cancel and close the window.
 
 TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi\-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans\-SerifMonospace Sans\-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
 
-**Procuring Social Innovations**
+* *Procuring Social Innovations**
 
-**Session 4: Enabling Market Access for Startups**
+ 
+
+* *Session 4: Enabling Market Access for Startups**
 
 The session aimed to apprise relevant stakeholders about the initiatives taken by various Governments to create channels for procuring social innovations and any special provision created for startups to facilitate smooth market access.
 
-**Session 5: Leveraging Power of Social Innovation**
+* *Session 5: Leveraging Power of Social Innovation**
 
 This session covered the emerging role of social innovation in solving real\-life problems and success stories of startups that have helped the Governments address pressing problems.
 
@@ -440,13 +474,15 @@ Beginning of dialog window. Escape will cancel and close the window.
 
 TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi\-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans\-SerifMonospace Sans\-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
 
-**Knowledge Exchange Workshops**
+* *Knowledge Exchange Workshops**
 
-**Session 6: Idea to Minimum Viable Product**
+ 
+
+* *Session 6: Idea to Minimum Viable Product**
 
 The session focused on aspiring entrepreneurs from the SCO Member States and provided them with mentorship and guidance on how to convert an idea into a minimum viable product. 
 
-**Session 7: Go\-to\-Market Strategy**
+* *Session 7: Go\-to\-Market Strategy**
 
 The session focused on the ingredients of a robust go\-to\-market strategy with an emphasis on internationalisation for startups. 
 
@@ -460,31 +496,43 @@ Beginning of dialog window. Escape will cancel and close the window.
 
 TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi\-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans\-SerifMonospace Sans\-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
 
-**Multilateral Incubator Programs**
+* *Multilateral Incubator Programs**
 
-**Session 8: Building Successful Incubators**
+ 
+
+* *Session 8: Building Successful Incubators**
 
 The session focused on building blocks of setting up an incubator and the different elements of an incubation centre for the relevant stakeholders of the SCO Member States
 
-**Session 9: Harnessing Government’s Support for Incubators**
+* *Session 9: Harnessing Government’s Support for Incubators**
 
 The initiatives and activities adopted by the Government bodies to support incubators were highlighted in the session.
 
-**Meeting with SCO Ambassadors**
+* *Meeting with SCO Ambassadors**
+
+ 
 
 DPIIT organised a meeting with the ambassadors of the SCO Member States, Dialogue Partners, and Observer States on 25th June 2022\. The Ambassadors and their teams from 15 countries visited the Invest India office to discuss cross\-border startup engagements and the SCO Startup Forum 3\.0\. The discussions revolved around the mentorship program to be organised by Startup India. Some countries shared their best practices as well. For example, Innovation Factories in Iran, the Tashkent IT Park in Uzbekistan, and Tax provisions in Kazakhstan, among others. The Startup India website provides real\-time translation in 11 languages followed in the participant countries – which was an eye\-catcher to all the foreign delegates. The meeting was succeeded by a showcase wherein all the ambassadors tried out the products made by Indian innovators.
 
- **SCO Mentorship Series**
+ 
+
+* *SCO Mentorship Series**
 
 A 3\-month long virtual mentorship series ‘Starting\-Up’ was organised for the nominated startups, to build capacity among the SCO Startup founders, from July to September 2023\. This series provided guidance and mentorship to aspiring entrepreneurs. The Virtual mentorship workshops comprised of 1\-hour long sessions every week over 3 months i.e. a total of 12 sessions. The workshops highlighted important fundamental concepts and building blocks of successful startups. Startups were individually handheld, and their queries were addressed by experts over the 3 months. A total of 100\+ hours of mentorship was provided to the startups.
 
-**Below mentioned is the structure of the mentorship series:**
+ 
+
+* *Below mentioned is the structure of the mentorship series:**
+
+ 
 
 * Month 1\- Entrepreneurship Fundamentals: The 4 sessions focused on highlighting essential concepts such as developing a business model from an idea, identifying the target audience, creating a pitch deck, etc.
 * Month 2\- Entrepreneurship Intermediate: The next 4 sessions were an advanced version of the previous session. Concepts such as term sheets, generating revenue, important financial metrics, diversifying business, raising capital, etc were covered in these sessions.
 * Month 3\- Entrepreneurship Advanced: The last 4 sessions were focused on how to scale up a startup. Concepts such as building up teams, scaling business operations, and going global were covered in these sessions.
 
 ### **Startup Showcase**
+
+ 
 
 Startup Showcase was custom built to provide a holistic and interactive 3D environment for the attendees, providing the look and feel of a real startup event. The platform provided life\-like access to the exhibit by the startups and included features such as live chat, videos, brochures, social media links, etc.
 
@@ -500,13 +548,15 @@ Beginning of dialog window. Escape will cancel and close the window.
 
 TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi\-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans\-SerifMonospace Sans\-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
 
-**Sharing of Best Practices**
+* *Sharing of Best Practices**
 
-**Session 1: Foundation of a Robust Startup Ecosystem: A Startup Policy**
+ 
+
+* *Session 1: Foundation of a Robust Startup Ecosystem: A Startup Policy**
 
 The session focused on highlighting the role of a dedicated startup policy in nurturing local innovations and the startup ecosystem.
 
-**Session 2: Promoting Women Entrepreneurship**
+* *Session 2: Promoting Women Entrepreneurship**
 
 The session revolved around enhancing the participation of women in the global startup ecosystem and sharing the experiences of successful female entrepreneurs from various countries.
 
@@ -520,9 +570,11 @@ Beginning of dialog window. Escape will cancel and close the window.
 
 TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi\-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans\-SerifMonospace Sans\-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
 
-**Corporate \& Investor Engagement**
+* *Corporate \& Investor Engagement**
 
-**Session 3: Elevator Pitch and Feedback**
+ 
+
+* *Session 3: Elevator Pitch and Feedback**
 
 The session on Corporate and Investor Engagement aimed to aid startups from the SCO Member States to improve their pitching session. It provided a platform to startups from the SCO Member States to deliver an elevator pitch to a Jury of renowned professionals and investors.
 
@@ -536,12 +588,14 @@ Beginning of dialog window. Escape will cancel and close the window.
 
 TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi\-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi\-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans\-SerifMonospace Sans\-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
 
-**Procuring Social Innovations**
+* *Procuring Social Innovations**
 
-**Session 4: Enabling Market Access for Startups**
+ 
+
+* *Session 4: Enabling Market Access for Startups**
 
 The session aimed to apprise relevant stakeholders about the initiatives taken by various Governments to create channels for procuring social innovations and any special provision created for startups to facilitate smooth market access.
 
-**Session 5: Leveraging Power of Social Innovation**
+* *Session 5: Leveraging Power of Social Innovation**
 
 This session covered the emerging role of social innovation in solving real\-life problems and success stories of startups that have helped the Governments address pressing problems.

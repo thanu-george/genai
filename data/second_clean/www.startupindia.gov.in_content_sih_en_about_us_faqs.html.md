@@ -19,17 +19,17 @@ Next
 
 Investors, particularly venture capitalists (VCs), add value to startups in a lot of ways: 
 
- **1\. Stakeholder Management**: Investors manage the company board and leadership to facilitate smooth operations of the startup. In addition, their functional experience and domain knowledge of working and investing with startups impart vision and direction to the company. 
+* *1\. Stakeholder Management**: Investors manage the company board and leadership to facilitate smooth operations of the startup. In addition, their functional experience and domain knowledge of working and investing with startups impart vision and direction to the company. 
 
- **2\. Raising Funds**: Investors are the best guides for the startup to raise subsequent rounds of funding on the basis of stage, maturity, sector focus, etc. and aid in networking and connection for the founders to pitch their business to other investors. 
+* *2\. Raising Funds**: Investors are the best guides for the startup to raise subsequent rounds of funding on the basis of stage, maturity, sector focus, etc. and aid in networking and connection for the founders to pitch their business to other investors. 
 
- **3\. Recruiting Talent**: Sourcing high\-quality and best\-fit human capital is critical for startups, especially when it comes to recruiting senior executives to manage and drive business goals. VCs, with their extensive network, can help bridge the talent gap by recruiting the right set of people at the right time. 
+* *3\. Recruiting Talent**: Sourcing high\-quality and best\-fit human capital is critical for startups, especially when it comes to recruiting senior executives to manage and drive business goals. VCs, with their extensive network, can help bridge the talent gap by recruiting the right set of people at the right time. 
 
- **4\. Marketing**: VCs assist with marketing strategy for your product/service. 
+* *4\. Marketing**: VCs assist with marketing strategy for your product/service. 
 
- **5\. M and A Activity**: VCs have their eyes and ears open to merger and acquisition opportunities in the local entrepreneurial ecosystem to enable greater value addition to the business through inorganic growth. 
+* *5\. M and A Activity**: VCs have their eyes and ears open to merger and acquisition opportunities in the local entrepreneurial ecosystem to enable greater value addition to the business through inorganic growth. 
 
- **6\. Organisational Restructuring**: As a young startup matures into an established company, VCs help with the right organisational structuring and introduce processes to increase capital efficiency, lower costs, and scale efficiently. 
+* *6\. Organisational Restructuring**: As a young startup matures into an established company, VCs help with the right organisational structuring and introduce processes to increase capital efficiency, lower costs, and scale efficiently. 
 
  3 
 
@@ -224,35 +224,35 @@ To regularly follow updates of the IMB meetings, you may refer to the IMB notifi
 
  Different investors use different criteria to judge an investment. The importance of these factors would vary depending on the stage of investment, sector of startup, management team, etc. Listed below are typical investment criteria used by investors: 
 
- **1\. Market Landscape**: Refers to the addressable market that the startup is catering to. 
+* *1\. Market Landscape**: Refers to the addressable market that the startup is catering to. 
 
- ***Factors***: Market size, obtainable market share, adoption rate, historical and forecasted growth rates, macroeconomic drivers, demand\-supply.
+* **Factors***: Market size, obtainable market share, adoption rate, historical and forecasted growth rates, macroeconomic drivers, demand\-supply.
 
- **2\. Scalability and Sustainability** : Startups should showcase the potential upscale in the near future, a sustainable and stable business plan. 
+* *2\. Scalability and Sustainability** : Startups should showcase the potential upscale in the near future, a sustainable and stable business plan. 
 
- ***Factors***: Barriers to entry, imitation costs, growth rate, expansion plans.
+* **Factors***: Barriers to entry, imitation costs, growth rate, expansion plans.
 
- **3\.** **Objective and Problem\-Solving** : The offering of the startup should be differentiated to solve a unique customer problem or to meet customer needs. Ideas or products that are patented showcase deemed potential in the startups. 
+* *3\.** **Objective and Problem\-Solving** : The offering of the startup should be differentiated to solve a unique customer problem or to meet customer needs. Ideas or products that are patented showcase deemed potential in the startups. 
 
- **4\. Customers and Suppliers**: Laying out your customers and suppliers, helps investors understand your business better.
+* *4\. Customers and Suppliers**: Laying out your customers and suppliers, helps investors understand your business better.
 
- ***Factors***: Customer relationships, stickiness to the product, vendor terms, existing vendors. 
+* **Factors***: Customer relationships, stickiness to the product, vendor terms, existing vendors. 
 
- **5\. Competitive Analysis**: A true picture of competition and other players in the market working on similar things should be highlighted. There can never be an apple\-to\-apple comparison, but highlighting the service or product offerings of similar players in the industry is important.
+* *5\. Competitive Analysis**: A true picture of competition and other players in the market working on similar things should be highlighted. There can never be an apple\-to\-apple comparison, but highlighting the service or product offerings of similar players in the industry is important.
 
- ***Factors:***  Number of players in the market, market share, obtainable share in the near future, product mapping to highlight similarities or differences between competitor offerings.
+* **Factors:***  Number of players in the market, market share, obtainable share in the near future, product mapping to highlight similarities or differences between competitor offerings.
 
- **6\. Sales and Marketing**: No matter how good your product or service may be, if it does not find any end use, there is no good. 
+* *6\. Sales and Marketing**: No matter how good your product or service may be, if it does not find any end use, there is no good. 
 
- ***Factors****:* Sales forecast, targeted audiences, marketing plan for the target, conversion and retention ratio, etc. 
+* **Factors****:* Sales forecast, targeted audiences, marketing plan for the target, conversion and retention ratio, etc. 
 
- **7\. Financial Assessment:**  A detailed business model that showcases the cash inflows over the years, investments required, key milestones, break\-even points, and growth rates should be made out well. Assumptions used at this stage should also be reasonable and clearly mentioned.   
+* *7\. Financial Assessment:**  A detailed business model that showcases the cash inflows over the years, investments required, key milestones, break\-even points, and growth rates should be made out well. Assumptions used at this stage should also be reasonable and clearly mentioned.   
 
 See sample valuation template here.(to be sourced under templates section)
 
- **8\. Exit Avenues:** A startup showcasingpotential future acquirers or alliance partners becomes a valuable decision parameter for the investor.
+* *8\. Exit Avenues:** A startup showcasingpotential future acquirers or alliance partners becomes a valuable decision parameter for the investor.
 
- **9\. Management and Team**: The execution and passion of the founder and the management team to drive the company is equally crucial in addition to all the factors mentioned above.
+* *9\. Management and Team**: The execution and passion of the founder and the management team to drive the company is equally crucial in addition to all the factors mentioned above.
 
  2 
 
@@ -262,15 +262,15 @@ See sample valuation template here.(to be sourced under templates section)
 
  Venture capital and private equity funds must exit all their investments before the end of the fund’s life. The common exit methods are:
 
- **1\. Mergers and Acquisitions:** The investor may decide to sell the portfolio company to another company in the market. For example, the $140 million acquisition of RedBus by South African Internet and media giant Naspers and its integration with its India arm, Ibibo Group, presented an exit option for its investors, Seedfund, Inventus Capital Partners, and Helion Venture Partners. 
+* *1\. Mergers and Acquisitions:** The investor may decide to sell the portfolio company to another company in the market. For example, the $140 million acquisition of RedBus by South African Internet and media giant Naspers and its integration with its India arm, Ibibo Group, presented an exit option for its investors, Seedfund, Inventus Capital Partners, and Helion Venture Partners. 
 
- **2\. IPO**: An initial public offering is the first time that the stock of a private company is offered to the public. Issued by private companies seeking capital to expand, it is one of the preferred options for investors looking to exit a startup organisation. 
+* *2\. IPO**: An initial public offering is the first time that the stock of a private company is offered to the public. Issued by private companies seeking capital to expand, it is one of the preferred options for investors looking to exit a startup organisation. 
 
- **3\. Exit to Financial Investors**: Investors may sell their investment to other venture capital or private equity firms.
+* *3\. Exit to Financial Investors**: Investors may sell their investment to other venture capital or private equity firms.
 
- **4\. Distressed Sale**: Under financially stressed times for a startup company, the investors may decide to sell the business to another company or a financial institution.
+* *4\. Distressed Sale**: Under financially stressed times for a startup company, the investors may decide to sell the business to another company or a financial institution.
 
- **5\. Buybacks**: Founders of the startup may also buy back their investment from the fund. 
+* *5\. Buybacks**: Founders of the startup may also buy back their investment from the fund. 
 
  3 
 
@@ -280,10 +280,10 @@ See sample valuation template here.(to be sourced under templates section)
 
  A term sheet for a venture capital transaction in India typically includes four structural provisions: valuation, investment and management structures, and changes to share capital. 
 
- **1\. Value**: Startup valuations are the total worth of the company as estimated by a professional valuer. There are various means of valuing a startup company, like the Cost to Duplicate approach, the Market Multiple approach, discounted cash flow (DCF) analysis, and the valuation\-by\-stage approach. Investors choose the relevant approach based on the stage of the investment and the market maturity of the startup. 
+* *1\. Value**: Startup valuations are the total worth of the company as estimated by a professional valuer. There are various means of valuing a startup company, like the Cost to Duplicate approach, the Market Multiple approach, discounted cash flow (DCF) analysis, and the valuation\-by\-stage approach. Investors choose the relevant approach based on the stage of the investment and the market maturity of the startup. 
 
- **2\. Investment Structure**: It defines the mode of venture capital investment in the startup, whether it is through equity, debt, or a combination of both. 
+* *2\. Investment Structure**: It defines the mode of venture capital investment in the startup, whether it is through equity, debt, or a combination of both. 
 
- **3\. Management Structure**: The term sheet details the management structure of the company, including the composition of the board of directors and prescribed appointment and removal procedures. 
+* *3\. Management Structure**: The term sheet details the management structure of the company, including the composition of the board of directors and prescribed appointment and removal procedures. 
 
- **4\. Changes to share capital**: All investors in startups have their own investment timelines, and they accordingly seek flexibility in seeking exit options through subsequent rounds of funding. The term sheet addresses the stakeholders’ rights and obligations with respect to subsequent changes in the company’s share capital.
+* *4\. Changes to share capital**: All investors in startups have their own investment timelines, and they accordingly seek flexibility in seeking exit options through subsequent rounds of funding. The term sheet addresses the stakeholders’ rights and obligations with respect to subsequent changes in the company’s share capital.
