@@ -8,7 +8,6 @@ from pymilvus import connections, Collection, utility
 from pymilvus import FieldSchema, CollectionSchema, DataType
 
 
-# ------------------ Chunking ------------------
 def recursive_chunk(text, chunk_size=1000, chunk_overlap=200):
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
@@ -28,6 +27,7 @@ def load_and_chunk(input_dir: Path):
         text_chunks = recursive_chunk(raw_text)
 
         for i, chunk_text in enumerate(text_chunks):
+
             all_chunks.append({
                 "chunk_id": str(uuid.uuid4()),
                 "document_id": file_path.stem,
@@ -75,7 +75,7 @@ class MilvusStorage:
             index_params={
                 "index_type": "HNSW",
                 "metric_type": "COSINE",
-                "params": {"M": 16, "efConstruction": 200}
+                "params": {"M": 40, "efConstruction": 400}
             }
         )
 
