@@ -1,3 +1,10 @@
+## https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
+## https://dev.to/stephenc222/how-to-use-milvus-to-store-and-query-vector-embeddings-5hhl
+## https://poloclub.github.io/transformer-explainer/
+## https://dugas.ch/artificial_curiosity/GPT_architecture.html
+
+
+
 ## ﻿SELENIUM
 Open source framework for automating web browsers
 * Testing web applications
@@ -5,12 +12,9 @@ Open source framework for automating web browsers
 * Scraping data from website
 
 
-CHROMEDRIVER : separate executable that selenium webdriver uses to launch Google chrome
+## CHROMEDRIVER : separate executable that selenium webdriver uses to launch Google chrome
 * Used by selenium to communicate test scripts with chrome
 WEBDRIVER:  collection of APIs that are used for automating the testing of web applications
-
-https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
-
 
 
 ## Input URL:
@@ -40,14 +44,6 @@ Before splitting a document into chunks (for tasks like retrieval-augmented gene
         •        Fix isolated punctuation or incomplete sentences that can confuse chunking/sentence segmentation.
 
 
-  
-
-## https://dev.to/stephenc222/how-to-use-milvus-to-store-and-query-vector-embeddings-5hhl
-## https://poloclub.github.io/transformer-explainer/
-## https://dugas.ch/artificial_curiosity/GPT_architecture.html
-
-
-
 ## Why are your scores low?
 1. Embedding model mismatch
    * You’re using all-mpnet-base-v2 (a general-purpose embedding model).
@@ -59,7 +55,7 @@ Before splitting a document into chunks (for tasks like retrieval-augmented gene
 3. Query formulation
    * "What is a term sheet?" is phrased as a question.
    * Embedding models often retrieve better if you rephrase queries to be more keyword-focused, e.g. "definition of term sheet".
-________________
+
 
 ## How to improve retrieval
 1. Switch to a better embedding model
@@ -74,3 +70,4 @@ ________________
    * Example: "term sheet definition", "explain startup term sheet", etc.
 4. Hybrid search (semantic + keyword/BM25)
    * Milvus supports hybrid search — you can combine embeddings with keyword matches for stronger recall.
+
