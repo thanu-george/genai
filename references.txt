@@ -1,0 +1,216 @@
+﻿SELENIUM
+Open source framework for automating web browsers
+* Testing web applications
+* Performing automation tasks
+* Scraping data from website
+
+
+CHROMEDRIVER : separate executable that selenium webdriver uses to launch Google chrome
+* Used by selenium to communicate test scripts with chrome
+WEBDRIVER:  collection of APIs that are used for automating the testing of web applications
+
+
+https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
+
+
+________________
+
+
+Step-by-Step Breakdown
+1. Get Web Data
+What happens
+You collect information from a webpage (HTML, images, scripts, text) using:
+* Web scraping → getting HTML and parsing it (e.g., BeautifulSoup, Scrapy, Selenium)
+* APIs → getting structured JSON/XML from a website’s backend
+* Manual download (rarely used in automation)
+Why
+This is your “raw ingredient.” Without the raw HTML/text, you can’t process anything.
+________________
+
+
+2. Convert into Markdown
+What happens
+You turn the messy HTML into clean, lightweight Markdown.
+For example:
+<h1>Title</h1>
+<p>Hello world</p>
+
+
+becomes:
+# Title  
+Hello world
+
+
+Why
+Markdown is:
+* Easier to read
+* Easier to store
+* Keeps text formatting without extra HTML noise
+________________
+
+
+3. Clean Markdown (if needed)
+What happens
+Remove unnecessary parts:
+* Navigation menus, ads, sidebars
+* Extra newlines or spaces
+* Links or images you don’t need
+Example in Python:
+text = markdown_text.replace("\n\n\n", "\n\n")
+
+
+Why
+Cleaner text = better quality later when embedding and searching.
+________________
+
+
+4. Chunk Markdown Data
+What happens
+You break large text into smaller, meaningful chunks (e.g., 200–500 words each).
+* If you don’t chunk, large documents may:
+   * Overflow embedding size limits
+   * Lose precision in search
+Example:
+chunks = [text[i:i+500] for i in range(0, len(text), 500)]
+
+
+Why
+Search engines (or vector databases) work best when each stored item is small and focused.
+________________
+
+
+5. Embed Data
+What happens
+You convert text chunks into vector embeddings — numerical representations of meaning — using a model like:
+* OpenAI’s text-embedding-3-small
+* Sentence Transformers (all-MiniLM-L6-v2)
+Example:
+embedding = model.embed(chunk)
+
+
+Why
+This allows semantic search → finding results by meaning, not exact words.
+________________
+
+
+6. Prepare Schema in Vector Database
+What happens
+You design how data will be stored in the database:
+* Fields: id, content, embedding, metadata
+* Index type: e.g., cosine similarity, HNSW graph
+Why
+A schema is the “blueprint” — without it, you can’t store or retrieve efficiently.
+________________
+
+
+7. Prepare Metadata
+What happens
+Attach descriptive info for each chunk:
+{
+  "id": "page-1-chunk-3",
+  "source": "https://example.com",
+  "section": "Introduction",
+  "date_scraped": "2025-08-12"
+}
+
+
+Why
+Metadata helps with filtering search results later (e.g., “only from 2023” or “only blog posts”).
+________________
+
+
+8. Store Metadata and Embedded Data
+What happens
+* Send the embedding to the vector database
+* Send the metadata alongside
+* Store them in a way that allows fast similarity search
+Popular vector DBs:
+* Pinecone
+* Weaviate
+* Milvus
+* FAISS (local)
+Why
+Now you have a searchable “knowledge base” where you can ask:
+“Find me all paragraphs about renewable energy policy”
+…and it’ll find them by meaning, not keywords.
+________________
+
+
+The Big Picture
+This is essentially ETL for unstructured web text:
+1. Extract → Scrape or fetch the data
+2. Transform → Clean, chunk, and embed it
+3. Load → Store in a vector database with metadata
+________________
+
+
+
+
+Input URL:
+`https://www.example.com/site/page/?search=test#section1`
+Parsed parts:
+        •        scheme: `https`
+        •        netloc (domain): `www.example.com`
+        •        path: `/site/page/`
+        •        query: `search=test`
+        •        fragment: `section1`
+Normalization steps:
+        •        Remove fragment → ignore `#section1`
+        •        Remove trailing slash from path `/site/page/` → `/site/page`
+        •        Rebuild cleaned URL: `https://www.example.com/site/page/?search=test`
+
+
+
+
+What should be cleaned in a markdown file before chunking?
+Before splitting a document into chunks (for tasks like retrieval-augmented generation), cleaning helps ensure chunks are meaningful and concise:
+        •        Remove navigation, repeating headers/footers, and boilerplate that appear in every page.
+        •        Delete ads, social media links, and unrelated widgets.
+        •        Strip out metadata, tracking codes, and HTML artifacts leftover after conversion.
+        •        Condense multiple consecutive blank lines into single newlines.
+        •        Remove redundant or irrelevant legal disclaimers or copyright notices.
+        •        Fix encoding or Unicode artifacts and normalize whitespace.
+        •        Optionally remove side comments or footnotes if they do not add context.
+        •        Fix isolated punctuation or incomplete sentences that can confuse chunking/sentence segmentation.
+
+
+  
+
+
+
+https://dev.to/stephenc222/how-to-use-milvus-to-store-and-query-vector-embeddings-5hhl
+https://poloclub.github.io/transformer-explainer/
+https://dugas.ch/artificial_curiosity/GPT_architecture.html
+
+
+
+
+
+
+Why are your scores low?
+1. Embedding model mismatch
+   * You’re using all-mpnet-base-v2 (a general-purpose embedding model).
+   * It’s good, but not optimized for semantic search in QA pipelines.
+   * Some chunks may be long or contain multiple concepts → weaker matches.
+2. Chunking strategy
+   * If chunks are too large (1000 tokens), they may include unrelated text, diluting similarity.
+   * If too small, context may get lost.
+3. Query formulation
+   * "What is a term sheet?" is phrased as a question.
+   * Embedding models often retrieve better if you rephrase queries to be more keyword-focused, e.g. "definition of term sheet".
+________________
+
+
+How to improve retrieval
+1. Switch to a better embedding model
+   * Try text-embedding-3-large (OpenAI, if allowed).
+   * For open-source: bge-large-en or gte-large (HuggingFace).
+   * These often outperform mpnet in retrieval tasks.
+2. Improve chunking
+   * Try smaller chunks (chunk_size=500, chunk_overlap=100).
+   * This makes chunks tighter and more focused.
+3. Query expansion / rewriting
+   * Use the LLM itself to rephrase the query into multiple semantic variations and search with all.
+   * Example: "term sheet definition", "explain startup term sheet", etc.
+4. Hybrid search (semantic + keyword/BM25)
+   * Milvus supports hybrid search — you can combine embeddings with keyword matches for stronger recall.
