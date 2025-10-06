@@ -1,0 +1,7 @@
+﻿Matrices,Chat GPT-3,Token size = 10,
+Input Embedding ,4096 x 12288,10 x 12288,sequence length x d_model; embedding size 12288
+K,4096x96x128,10 x 96 x 128 ,"seq_len × dₖ ;  96 heads, 128 per head"
+V,4096x96x128,10 x 96  x 128 ,each head handles 128 dimensions
+Score/attention pattern,4096 x 4096,10 × 10,each head produces a 10x10 attention matrix
+,,,
+Score * V (Final output),"4096 × 12,288",10 x 12288,
