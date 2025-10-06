@@ -1,0 +1,272 @@
+﻿10 Q&A REPORT
+
+
+[
+        "Question": "What is the difference between seed funding and venture capital funding?",
+        "Answer": "Seed funding is early stage, often smaller amounts, used to validate product/market fit; venture capital funding typically comes later (Series A, B etc.), larger amounts, with revenue expectations, scaling etc.",
+        "Source": "seedfunds.com",
+        "Predicted answer":"The context does not provide enough information about what seed funding refers to. However, based on the provided information, Venture Capital Funds are professionally managed investment funds that invest exclusively in high-growth startups, whereas Seed Stage is a stage of startup operation where the startup has a prototype ready and needs to validate the potential demand for its product or service. The context does not explicitly compare seed funding with venture capital funding."
+    },
+    {
+        "Question": "What type of company can apply?",
+        "Answer": "Private Limited Company, Limited Liability Partnership (LLP), or Registered Partnership Firm.",
+        "Source": "startupindia.gov.in",
+        "Predicted answer":"According to the Companies Act 2013 and the provided context, eligible companies that can apply are:
+            * G1C: Must be Section 8/Section 25 entity with 3 years of experience in running incubation activities.
+            * G2C: Must be Section 8/Section 25 entity/registered society with 2 years of experience in running incubation activities.
+            * G3C: Initially, not mandatory to be Section 8/Section 25 entity. Must acquire section 8/25 status within one year of establishment as a TIDE centre.
+            The context does not provide enough information about the other categories or types of companies that can apply."
+    },
+    {
+        "Question": "Which states has Startup policies for women",
+        "Answer": "Andaman and Nicobar Island, Andhra Pradesh, Assam, Bihar, Jammu and Kashmir, Odisha, Uttarakhand, Chhattisgarh, Goa, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Maharashtra, Manipur, Nagaland, Puducherry, Punkab, Rajasthan, Tamil Nadu, Telangana, West Bengal, Dadra and Nagar Haveli & Daman and Diu, Tripura, Ladakh",
+        "Source": "https://www.startupindia.gov.in/content/sih/en/women_entrepreneurs.html",
+        "Predicted answer": "Andaman and Nicobar Islands, Andhra Pradesh, Assam, Bihar, Chhattisgarh, Dadra and Nagar Haveli & Daman and Diu, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir, Jharkhand, Karnataka, Kerala, Ladakh, Maharashtra, Manipur, Odisha, Punjab, Puducherry, Rajasthan, Telangana, Tripura, Uttarakhand, West Bengal."
+    },
+    {
+        "Question": "What is the eligibility criteria for Skill Upgradation and Mahila Coir Yojana",
+        "Answer": "The scheme is eligible for Rural women artisans in regions producing coir fibre. It is an intitative by Coir Department comes under MSME. It is an exclusive training programme aimed at the skill development of women artisans engaged in the coir industry. Two months of training in coir spinning is imparted through this programme. The candidates who undergo this training are given a stipend of Rs. 3000/- per month. The trained artisans under the scheme are encouraged to avail assistance through Prime Minister’s Employment Generation Programme (PMEGP) scheme to set up coir units.",
+        "Source": "https://www.startupindia.gov.in/content/sih/en/women_entrepreneurs.html",
+        "Predicted answer":"The context does not provide enough information about the "Skill Upgradation" and "Mahila Coir Yojana" schemes. Therefore, I cannot determine their eligibility criteria based on the given data."
+    },
+    {
+        "Question": "What is Karnataka's startup policy?",
+        "Answer": "Karnataka has 18339 DPIIT Recognised Startups and 8763 Women-Led Startups/Women Entrepreneurs. Key sector of startups is IT Consulting. For more information call 91-80-22231007, mail: startupcell@karnataka.gov.in or visit https://www.missionstartupkarnataka.org/?en",
+        "Source": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html",
+        "Predcited answer":"According to the provided context, Karnataka's startup policy provides initial capital costs for equipment and facilities and recurring costs of management of TBI for a three-year period, extendable by another two years based on performance, at the end of which the incubators are expected to become self-sufficient."
+    },
+    {
+        "Question": "What are different types of startup fundings?",
+        "Answer": "There re three different types of startup fundings. Equity Financing, Debt Financing and Grants. Equity financing involves selling a portion of a company's equity in return for capital. Debt financing involves the borrowing of money and paying it back with interest. A grant is an award, usually financial, given by an entity to a company to facilitate a goal or incentivise performance.",
+        "Source": "https://www.startupindia.gov.in/content/sih/en/funding.html",
+        "Predcited answer": "According to the provided context, the following are different types of startup funding:
+            1. **Equity Financing**: There is no component of repayment of the invested funds.
+            2. **Debt Financing**: Invested Funds to be repaid within a stipulated time frame with interest.
+            3. **Grants**: There is no component of repayment of the invested funds."
+    },
+    {
+        "Question": "What is tax exemption under section 80IAC?",
+        "Answer": "A benefit under Startup India for eligible startups that allows income tax exemption for 3 consecutive years out of their first 10 years since incorporation.",
+        "Source":"https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+        "Predcited answer":"A recognized startup can apply for tax exemption under Section 80IAC of the Income Tax Act. The startup can avail a tax holiday for three consecutive financial years out of its first ten years since incorporation, provided it meets the eligibility criteria: the entity should be a recognized Startup, only Private limited or a Limited Liability Partnership is eligible, and the Startup should have been incorporated after 1st April, 2016."
+    },
+    {
+        "Question": "What are different funding support for Indian startups?",
+        "Answer": "SIDBI Fund of Funds Scheme, Startup India Seed Fund Scheme, Startup India Investor Connect, Credit Guarantee Scheme for Startups",
+        "Source": "https://www.startupindia.gov.in/content/sih/en/funding.html",
+        "Predcited answer":"According to the provided context, the different funding supports for Indian startups include:
+        * Seed Fund Scheme (SISFS) for proof of concept, prototype development, product trials, market entry, and commercialisation
+        * Funding Guide for Startups for various purposes
+        * Startup India Investor Connect for connecting startups with investors
+        * Fund of Funds for contribution to various AIFs registered with SEBI for funding of startups"
+    },
+    {
+        "Question": "Can a Partnership Firm avail SISFS benefits?",
+        "Answer": "Yes, provided it is registered and recognized by DPIIT.",
+        "Source": "startupindia.gov.in",
+        "Predcited answer":"The context does not provide enough information on this specific question. However, based on the general eligibility criteria for Startup India Seed Fund Scheme (SISFS), it appears that only an entity registered as a company (as defined in the Companies Act, 2013) or registered as a limited liability partnership (under the Limited Liability Partnership Act, 2008) can avail SISFS benefits."
+    },
+    {
+        "Question": "Can startups in Tier 2 and Tier 3 cities apply?",
+        "Answer": "Yes, applications are encouraged from all regions.",
+        "Source": "startupindia.gov.in",
+        "Predcited answer":"Yes, the context indicates that the Startup India Initiative specifically targets entrepreneurs in Tier 2 and 3 cities to search for entrepreneurial talent and help develop the startup ecosystem at the grassroots level in states. Therefore, startups in Tier 2 and Tier 3 cities can indeed apply."
+ANSWERS AND RELEVANT CHUNKS 
+
+
+Query:   Which states has Startup policies for women?
+
+
+=== Retrieved Chunks ===
+
+
+Result 1 (distance=0.7678)
+Document: www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html
+Text: #### Goa
+The state offers rental/lease reimbursement to all new and existing 
+ units having 30 percent women employees in the venture.
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Gujarat
+The state offers monthly sustenance allowance to women founders post meeting the eligibility 
+ criteria.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Haryana
+ The state offers permission for women to work in multiple shifts in startups
+ amongst other things.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Himachal Pradesh
+
+
+
+
+Result 2 (distance=0.7507)
+Document: www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html
+Text: States with Startup Policies for Women
+======================================
+#### Andaman and Nicobar Islands
+The state offers monthly allowances to women led startups, wherein a women founder/co\-founder 
+ with at least 50 per cent equity in the Startup entity and meeting other criteria as prescribed 
+ in the Notification for Startup Funding \& Incentives would be eligible.
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Andhra Pradesh
+The state offers permission for women to work in multiple shifts, subsidy on power bills, 
+ subsidy on lease rentals, reimbursements for setting stalls in notified national/ 
+ international exhibitions, investment subsidy on fixed capital amongst other incentives to 
+ women entrepreneurs.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Assam
+
+
+
+
+
+
+Result 3 (distance=0.7150)
+Document: www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html
+Text: #### Himachal Pradesh
+The state offers launching a program to send startups, college and school students 
+ and faculty to leading Startup destinations in the country and abroad for getting 
+ exposure as well as an opportunity to meet and converse with industry leaders, 
+ thinkers and innovators. The state offers provision to ensure 1/3rd representation of
+ women entrepreneurs, students and teachers etc.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Jharkhand
+The state offers reimbursement on lease rentals, amount paid to 
+ Internet Service Providers, electricity dis\-coms, amongst other 
+ incentives to women entrepreneurs post meeting the eligibility criteria.
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Karnataka
+
+
+Result 4 (distance=0.7131)
+Document: www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html
+Text: #### Assam
+The state offers a special one\-time incentive of Rs. 5,000 per woman candidate hired subject to an upper limit of Rs. 1 lakh per startup for a period of 3 years.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Bihar
+ The state offers grant/exemptions/subsidy to women entrepreneurs.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Jammu and Kashmir
+The state offers monthly allowance and assistance for research and development, marketing and publicity to startups with women founders post meeting the eligibility criteria.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Odisha
+
+
+Result 5 (distance=0.6762)
+Document: www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html
+Text: #### Nagaland
+The state shall dedicate 25 per cent of total funds for startups to women led startups, registered with the state.
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Puducherry
+The state offers monthly allowance to startups by women entrepreneurs.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Punjab
+ The state aims at dedicating 25 percent of the total startup funds to promote 
+ Startups by Women entrepreneurs. The state shall also provide interest subsidy 
+ to women entrepreneurs in the state basis fulfilment of necessary criteria.
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Rajasthan
+
+
+
+
+Result 6 (distance=0.6689)
+Document: www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html
+Text:  #### Odisha
+The state offers monthly allowance at ideation/ prototype stage and after the idea get commercialised to women entrepreneurs post meeting the eligibility criteria.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Uttarakhand
+The state offers allowance for marketing assistance to women entrepreneurs post meeting the eligibility criteria.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Chhattisgarh
+The state offers a separate corpus out of Innovation Fund, Leap of Faith Revolving Fund and Venture capital Fund of more than Rs. 100 crores will be earmarked for women innovators in order to motivate and empower women entrepreneurs in the state.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Goa
+
+
+Result 7 (distance=0.6664)
+Document: www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html
+Text:  #### Telangana
+The Government of Telangana has launched WE Hub\- First of its kind initiative to promote \& 
+ foster women entrepreneurship in the state. The organization supports women through Business 
+ Incubation, facilitating access to Government, and building forward \& backward linkage in the innovation ecosystem at ZERO Cost.
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### West Bengal
+The state offers special Neighbourhood handholding and mentoring 
+ support to rural Startups and Startup by women entrepreneurs through MSME Facilitation Centres (MFC).
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Dadra and Nagar Haveli \& Daman and Diu
+
+
+Result 8 (distance=0.6428)
+Document: www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html
+Text: #### Dadra and Nagar Haveli \& Daman and Diu
+The union territory aims to offer Specific training courses, subsidy schemes and preference in industrial 
+ plot allotment to women entrepreneurs.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Tripura
+ The state aims to earmark 50 percent of funds for women entrepreneurs 
+ in the Venture Capital Funds being set\-up by the state government as well as 50 
+ percent reservation for women in government market stalls and shopping complexes.
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Ladakh
+The union territory offers monthly allowance to startups having women 
+ founders/ co\-founders post meeting the eligibility criteria.
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+
+
+
+
+Result 9 (distance=0.6425)
+Document: www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html
+Text: #### Karnataka
+ The state shall mandate all Government supported incubators to allocate 
+ minimum 10% seats for Startups with women co\-Founders on preferential basis.
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Kerala
+ Kerala Startup Mission (KSUM) supports women Startups with a soft 
+ loan scheme for an amount limited to Rs.15 Lakhs as working capital 
+ for implementing works and projects received from the Govt. 
+ departments and Public Sector Undertakings in Kerala. For young (
+ 18 to 45 years) Women and SC/ST entrepreneurs, the assistance is 20% up to INR 30 lakhs.
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Maharashtra
+
+
+
+
+Result 10 (distance=0.6393)
+Document: www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html
+Text: #### Maharashtra
+The state offers Incentive Fund for Top\-rated Startup, creation of Investment Fund, 
+ Reimbursement of internet and electricity charges, Reimbursement of expenditure 
+ towards hosting infrastructure, Reimbursement of State GST, Reimbursement of 
+ exhibition/global event participation fee, Incubation Space for accelerators and Startups,
+ FinTech Corpus Fund to early stage and fintech startups with women founders.
+ [View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Manipur
+ The state offers neighbourhood hand holding and mentoring support for 
+ rural Startups and Startups by women entrepreneurs through Facilitation 
+ Centres. Startups should be registered with the state government.[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)
+#### Nagaland
+
+
+
+
+
+
+
+
+=== Final Answer ===
+Andaman and Nicobar Islands, Andhra Pradesh, Assam, Bihar, Chhattisgarh, Dadra and Nagar Haveli & Daman and Diu, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir, Jharkhand, Karnataka, Kerala, Ladakh, Maharashtra, Manipur, Odisha, Punjab, Puducherry, Rajasthan, Telangana, Tripura, Uttarakhand, West Bengal.
+
+
+
+
+OBSERVATIONS
+
+
+Retrieval + LLM generation pipeline is working. However:
+Answers such as “ context does not provide enough information”  show that LLM is being deterministic which means that temperature value could be low.
+
+
+
+
+Temperature
+	Behavior
+	0.0 – 0.3
+	Deterministic, factual, repeats context almost verbatim
+	0.4 – 0.7
+	Balanced — some creativity, but still grounded
+	0.8 – 1.2
+	More open-ended and paraphrasing
+	> 1.3
+	Unstable, sometimes incoherent
