@@ -1,0 +1,32 @@
+# Milvus Schema and Index Configuration
+
+## Collection Name
+startup_funding (or markdown_chunks)
+
+## Schema Fields
+- chunk_id (Primary Key, VARCHAR, length = 100)
+- document_id (VARCHAR, 512)
+- chunk_order (INT32)
+- base_url (VARCHAR, 512)
+- canonical_url (VARCHAR, 512)
+- doc_last_modified (INT64)
+- content_type (VARCHAR, 20)
+- content_source_type (VARCHAR, 50)
+- language (VARCHAR, 15)
+- chunk_text (VARCHAR, 15000)
+- chunk_text_vector (FLOAT_VECTOR, dim = 768)
+- doc_version (VARCHAR, 5)
+- is_active (BOOL)
+
+## Embedding Field
+- Name: chunk_text_vector
+- Dimension: 768
+- Embedding model: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+
+## Index Configuration
+- Index type: HNSW
+- Metric type: COSINE
+- Parameters:
+  - M = 40
+  - efConstruction = 400
+
