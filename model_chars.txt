@@ -1,0 +1,22 @@
+Model Documentation – Retrieval QA System
+
+## Model Name
+Llama 3 (via Ollama local inference)
+
+## Key Parameters
+- model: llama3
+- temperature: 0.7  (controls creativity)
+- request_timeout: 3600 s
+- context_window: 4096 tokens
+
+
+## Model Characteristics
+- Transformer-based autoregressive decoder
+- Open-weight LLM optimized for factual and creative reasoning
+- Multi-lingual support
+- Recommended for question answering, summarization, policy document analysis
+
+## Limitations
+- Context window limited to 4 k tokens
+- Output quality depends on retrieved chunk relevance
+- No built-in factual grounding without retrieval context
