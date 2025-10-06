@@ -255,7 +255,7 @@ OBSERVATIONS
 
 
 Retrieval + LLM generation pipeline is working. However:
-Answers such as “ context does not provide enough information”  show that LLM is being deterministic which means that temperature value could be low.
+Answers such as “ context does not provide enough information”  show that LLM is being deterministic which means that temperature value could be low. The answers also hold creativity with how it is written which suggests a balanced temperature.
 
 
 
@@ -269,4 +269,5 @@ Temperature
 	0.8 – 1.2
 	More open-ended and paraphrasing
 	> 1.3
+
 	Unstable, sometimes incoherent
