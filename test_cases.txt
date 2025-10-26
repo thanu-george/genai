@@ -71,6 +71,9 @@
         "Answer": "Yes, applications are encouraged from all regions.",
         "Source": "startupindia.gov.in",
         "Predcited answer":"Yes, the context indicates that the Startup India Initiative specifically targets entrepreneurs in Tier 2 and 3 cities to search for entrepreneurial talent and help develop the startup ecosystem at the grassroots level in states. Therefore, startups in Tier 2 and Tier 3 cities can indeed apply."
+
+
+
 ANSWERS AND RELEVANT CHUNKS 
 
 
@@ -259,15 +262,14 @@ Answers such as “ context does not provide enough information”  show that LL
 
 
 
-
 Temperature
 	Behavior
 	0.0 – 0.3
-	Deterministic, factual, repeats context almost verbatim
+	Deterministic, factual
 	0.4 – 0.7
 	Balanced — some creativity, but still grounded
 	0.8 – 1.2
 	More open-ended and paraphrasing
 	> 1.3
-
 	Unstable, sometimes incoherent
+
