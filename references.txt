@@ -187,4 +187,11 @@ ________________
 4. Hybrid search (semantic + keyword/BM25)
    * Milvus supports hybrid search — you can combine embeddings with keyword matches for stronger recall.
 
+## DEEPEVAL METRICS
+| Metric                   | What it measures                                                           | Ideal use                              |
+| ------------------------ | -------------------------------------------------------------------------- | -------------------------------------- |
+| Contextual Precision     | How much of the retrieved context was actually useful for the answer       | Evaluates context quality              |
+| Contextual Recall        | How much of the necessary context was retrieved                            | Evaluates retrieval completeness       |
+| Faithfulness             | Whether the model’s answer is factually grounded in the provided context   | Evaluates correctness vs hallucination |
+
 
