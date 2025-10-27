@@ -21,7 +21,7 @@ def load_and_chunk(input_dir: Path):
     all_chunks = []
     count = 1
     for file_path in input_dir.glob("*.md"):
-        with open(file_path, "r", encoding="utf-8") as f:
+        with open(file_path, "r", encoding="utf-8",errors="replace") as f:
             raw_text = f.read()
 
         text_chunks = recursive_chunk(raw_text)
@@ -52,6 +52,11 @@ def load_and_chunk(input_dir: Path):
 
 # ------------------ Milvus ------------------
 class MilvusStorage:
+    def __init__(self, host="localhost", port="19530"):
+        connections.connect("default", host=host, port=port)
+        logging.basicConfig(level=logging.INFO)
+        logger = logging.getLogger("milvus_logger")
+
     def create_schema(self):
         return [
             FieldSchema(name='chunk_id', dtype=DataType.VARCHAR, is_primary=True, max_length=100),
@@ -117,7 +122,7 @@ class MilvusStorage:
 # ------------------ Main Ingestion ------------------
 if __name__ == "__main__":
     # Connect
-    connections.connect("default", host="localhost", port="19530")
+    #connections.connect("default", host="localhost", port="19530")
 
     # Logger
     logging.basicConfig(level=logging.INFO)

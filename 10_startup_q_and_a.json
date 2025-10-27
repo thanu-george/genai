@@ -1,0 +1,338 @@
+[
+    {
+        "Question": "What is the difference between seed funding and venture capital funding?",
+        "Answer": "Seed funding is early stage, often smaller amounts, used to validate product/market fit; venture capital funding typically comes later (Series A, B etc.), larger amounts, with revenue expectations, scaling etc.",
+        "Source": "seedfunds.com",
+        "Predicted answer":"The context does not provide enough information about what seed funding refers to. However, based on the provided information, Venture Capital Funds are professionally managed investment funds that invest exclusively in high-growth startups, whereas Seed Stage is a stage of startup operation where the startup has a prototype ready and needs to validate the potential demand for its product or service. The context does not explicitly compare seed funding with venture capital funding.",
+        "RetrievedChunks": [
+            {
+                "chunk_text": "### Venture Capital Funds\nVenture capital (VC) funds are professionally managed investment funds that invest exclusively in high-growth startups. Each VC fund has its investment thesis � preferred sectors, stage of the startup, and funding amount � which should align with your startup. VCs take startup equity in return for their investments and actively engage in the mentorship of their investee startups.\n### Banks/Non-Banking Financial Companies (NBFCs)\nFormal debt can be raised from banks and NBFCs at this stage as the startup can show market traction and revenue to validate its ability to finance interest payment obligations. This is especially applicable for working capital. Some entrepreneurs might prefer debt over equity as debt funding does not dilute equity stake.\n### Venture Debt Funds\nVenture Debt funds are private investment funds that invest money in startups primarily in the form of debt. Debt funds typically invest along with an angel or VC round.",
+                "url": "www.startupindia.gov.in_content_sih_en_funding.html",
+                "distance": 0.6370
+            },
+            {
+                "chunk_text":"|  |  |  |  || --- | --- | --- | --- || **Characteristics of Investment** | **Equity Financing** | **Debt Financing** | **Grants** || **Nature** | There is no component of repayment of the invested funds. | Invested Funds to be repaid within a stipulated time frame with interest | There is no component of repayment of the invested funds || **Risk** | Risk factor for the investor is higher as he has no guarantee against his investment | Risk Factor for the investor is lower as he generally has collateral against his investment | There is no risk factor for the startup as no collateral is involved |",
+                "url":"www.startupindia.gov.in_content_sih_en_reources_looking_for_funding.html",
+                "distance":0.6186
+            },
+            {
+                "chunk_text":"Pre-Seed Stage### Bootstrapping/Self-financing:Bootstrapping a startup means growing the business with little or no venture capital or outside investment. It means relying on your savings and revenue to operate and expand. This is the first recourse for most entrepreneurs, as there is no pressure to pay back the funds or dilute control of your startup.\n### Friends and Family\nThis is also a commonly utilised channel of funding by entrepreneurs still in the early stages. The major benefit of this source of investment is that there is an inherent level of trust between the entrepreneurs and the investors.\n### Business Plan/Pitching Events\nThis is the prize money/grants/financial benefits that are provided by institutes or organisations that conduct business plan competitions and challenges. Even though the quantum of money is not generally large, it is usually enough at the idea stage. What makes the difference at these events is having a good business plan.",
+                "url":"www.startupindia.gov.in_content_sih_en_funding.html",
+                "distance":0.6159
+            },
+            {
+                "chunk_text":"### Venture Debt Funds\nVenture Debt funds are private investment funds that invest money in startups primarily in the form of debt. Debt funds typically invest along with an angel or VC round.\n[Scaling](#1623129864421)\nAt this stage, the startup is experiencing a fast rate of market growth and increasing revenues.\nSeries B, C, D and E\nCommon funding sources utilised by startups in this stage are:\n### Venture Capital Funds\nVC funds with larger ticket sizes in their investment thesis provide funding for late-stage startups. It is recommended to approach these funds only after the startup has generated significant market traction. A pool of VCs may come together and fund a startup as well.\n### Private Equity/Investment Firms\nPrivate equity/Investment firms generally do not fund startups however, lately some private equity and investment firms have been providing funds for fast-growing late-stage startups who have maintained a consistent growth record.",
+                "url":"www.startupindia.gov.in_content_sih_en_funding.html",
+                "distance":0.6121
+            },
+            {
+                "chunk_text":"### **Validation/Seed Stage**\nThis is the stage where your startup has a prototype ready and you need to validate the potential demand for your startup’s product/service. This is called conducting a ‘Proof of Concept (PoC)’, after which comes the big market launch. To do this, the startup will need to conduct field trials, test the product on a few potential customers, onboard mentors, and build a formal team. Common funding sources utilized by startups in this stage are:\n* **Incubators:** Incubators are organizations set-up with the specific goal of assisting entrepreneurs with building and launching their startups. Not only do incubators offer a lot of value-added services (office space, utilities, admin & legal assistance, etc.), they often also make grants/debt/equity investments",
+                "url":"www.startupindia.gov.in_content_sih_en_reources_looking_for_funding.html",
+                "distance":0.6020
+            }
+        ]
+    },
+    {
+        "Question": "What type of company can apply?",
+        "Answer": "Private Limited Company, Limited Liability Partnership (LLP), or Registered Partnership Firm.",
+        "Source": "startupindia.gov.in",
+        "Predicted answer":"According to the provided context, the following types of companies are eligible to apply:\n1. Private Limited Company\n2. Limited Liability Partnership (LLP)\n3. Registered Partnership\n4. Section 8/Section 25 entity (for G1C and G2C categories)",
+        "RetrievedChunks":[
+            {
+                "chunk_text":"In line with the notification issued by DPIIT via G.S.R. Section No. 127 (E) dated 19 February 2019, the complete process from receipt of application to grant/rejection of benefits was reviewed and below issues were discussed in the meeting held on 16 May 2019: (Minutes of the Thirtieth Inter-Ministerial Board Meeting)\n1. It was observed that a large number of applications were being rejected for availability of similar products/services. The applications should not be rejected merely on the basis of similar products/services, as it could mean higher demand and competition.\n2. An entity which is working towards innovation, development or improvement of products or processes or services, or if it is a scalable business model with a high potential of employment generation or wealth creation is also eligible for these exemptions. While evaluating these startups, these aspects must also be considered.",
+                "url":"www_startupindia_gov_in_content_dam_invest-india_Templates_public_5_years_Achievement_report_20__20final_20_1_.pdf",
+                "distance":0.4542
+            },
+            {
+                "chunk_text": "Date of Registration,\nBrief about the entity with Proof of concept such details on the problem Number (PAN), Name of the as pitch deck/ website solved, solution provided, registered entity (Private link/ video (in case of a uniqueness, and revenue Limited company/ Limited validation/ early traction/ model adopted Liability Partnership / scaling stage startup) Registered Partnership Other information about the entity – Sector, Patent Incorporation/ Director’s details Details, Stage, Number of 5-YEARS ACHIEVEMENT REPORT 25\nNO REQUIREMENT OF: Recommendation Letter\n\nADDITIONAL/OPTIONAL INFORMATION\n\nStartups at ideation stage can simply apply without any proof of concept and obtain recognition.\nStartups can also update their proof of funding, awards and recognitions received.\nStartups can strengthen their application by providing patent, trademark, copyright, and/or plant variety.\nStartups can also add a video of their product/services.",
+                "url": "www_startupindia_gov_in_content_dam_invest-india_Templates_public_5_years_Achievement_report_20__20final_20_1_.pdf",
+                "distance": 0.4592
+            },
+            {
+                "chunk_text": "Is the startup creating a scalable business model with high potential of employment generation or wealth creation?\n\nYes\n\nNo\n\nEmployment generation\n\nWealth creation\n\nPlease submit a brief note supporting the options chosen above for innovation, improvement and scalability.\n\nHas your startup received any funding?\n\nYes\n\nNo\n\nProof of Funding\n\n######\n\n6 [Startup Activities](#1499938103060)\n\nAny awards/recognition received by the entity?\n\nYes\n\nNo\n\nPlease mention any awards/recognition received by the entity (Please enter a minimum of 100 characters and a maximum of 400 characters.)\n\nUpload Award Document\n\nWhat is the problem the startup is solving?\n(Please enter a minimum of 100 characters and a maximum of 400 characters.)\n\nHow does your startup propose to solve this problem?\n(Please enter a minimum of 100 characters and a maximum of 400 characters.)",
+                "url": "www.startupindia.gov.in_content_sih_en_recognition-page.html",
+                "distance": 0.4631
+            },
+            {
+                "chunk_text": "How does your startup propose to solve this problem?\n(Please enter a minimum of 100 characters and a maximum of 400 characters.)\n\nWhat is the uniqueness of your solution?\n(Please enter a minimum of 100 characters and a maximum of 400 characters.)\n\nHow does your startup generate revenue?\n(Please enter a minimum of 100 characters and a maximum of 400 characters.)\n\n[Self Certification](#1499938288618)\n\nIncorporation/ Registration Certificate\n(Please upload company incorporation certificate issued by the Ministry of Corporate Affairs. The Certificate must be in pdf, png, or jpg format with file size not exceeding 5 MB.)\n(Please upload company registration certificate issued by the Registrar of Firms. The Certificate must be in pdf, png, or jpg format with file size not exceeding 5 MB.)\nAuthorization Letter (Please upload the Authorization letter on your company letterhead)\n[Authorization Letter Format.docx]",
+                "url":"www_startupindia_gov_in_content_sih_en_recognition-page.html",
+                "distance":0.4699
+            },
+            {
+                "chunk_text":"Companies Act 2013. | Eligibility criteria for all the 3 categories are as below: **G1C** **Legal status �** Must be Section 8/Section 25 entity  **Experience �** Must be an established incubation centre with 3 years of experience in running incubation activities  **Industry Linkages �** Must have collaboration with Industry partners/bodies **G2C** **Legal status �** Must be Section 8/Section 25 entity/registered society  **Experience �** Must be an established incubation centre with 2 years of experience in running incubation activities  **Industry Linkages �** Must have collaboration with industry partners/bodies **G3C** **Legal status �** Initially, Section 8/Section 25 entity status was not mandatory. Must acquire section 8/25 status within one year of establishment as a TIDE centre.  **Experience �** Should have an entrepreneurship/incubation cell  **Industry Linkages �** Not mandatory |",
+                "url":"www.startupindia.gov.in_content_sih_en_incubator-schemes.html",
+                "distance":0.4713
+            }
+            
+        ]
+    },
+    {
+        "Question": "Which states has Startup policies for women",
+        "Answer": "Andaman and Nicobar Island, Andhra Pradesh, Assam, Bihar, Jammu and Kashmir, Odisha, Uttarakhand, Chhattisgarh, Goa, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Maharashtra, Manipur, Nagaland, Puducherry, Punkab, Rajasthan, Tamil Nadu, Telangana, West Bengal, Dadra and Nagar Haveli & Daman and Diu, Tripura, Ladakh",
+        "Source": "https://www.startupindia.gov.in/content/sih/en/women_entrepreneurs.html",
+        "Predicted answer": "Andaman and Nicobar Islands, Andhra Pradesh, Assam, Bihar, Chhattisgarh, Dadra and Nagar Haveli & Daman and Diu, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir, Jharkhand, Karnataka, Kerala, Ladakh, Maharashtra, Manipur, Odisha, Punjab, Puducherry, Rajasthan, Telangana, Tripura, Uttarakhand, West Bengal.",
+        "RetrievedChunks":[
+            {
+                "chunk_text": "#### Dadra and Nagar Haveli & Daman and Diu\n\nThe union territory aims to offer specific training courses, subsidy schemes and preference in industrial plot allotment to women entrepreneurs.\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)\n\n#### Tripura\n\nThe state aims to earmark 50 percent of funds for women entrepreneurs in the Venture Capital Funds being set up by the state government as well as 50 percent reservation for women in government market stalls and shopping complexes.\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)\n\n#### Ladakh\n\nThe union territory offers monthly allowance to startups having women founders/co-founders post meeting the eligibility criteria.\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)",
+                "url":"www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html",
+                "distance":0.6590
+            },
+            {
+                "chunk_text": "#### Maharashtra\n\nThe state offers Incentive Fund for top-rated startups, creation of Investment Fund, reimbursement of internet and electricity charges, reimbursement of expenditure towards hosting infrastructure, reimbursement of State GST, reimbursement of exhibition/global event participation fee, incubation space for accelerators and startups, and FinTech Corpus Fund for early-stage and fintech startups with women founders.\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)\n\n#### Manipur\n\nThe state offers neighbourhood handholding and mentoring support for rural startups and startups by women entrepreneurs through facilitation centres. Startups should be registered with the state government.\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)\n\n#### Nagaland",
+                "url":"www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html",
+                "distance":0.6599
+            },
+            {
+                "chunk_text": "#### Karnataka\n\nThe state shall mandate all government-supported incubators to allocate a minimum of 10% seats for startups with women co-founders on a preferential basis.\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)\n\n#### Kerala\n\nKerala Startup Mission (KSUM) supports women startups with a soft loan scheme for an amount limited to Rs. 15 lakhs as working capital for implementing works and projects received from government departments and public sector undertakings in Kerala. For young (18–45 years) women and SC/ST entrepreneurs, the assistance is 20% up to INR 30 lakhs.\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)\n\n#### Maharashtra",
+                "url":"www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html",
+                "distance":0.6687
+            },
+            {
+                "chunk_text": "#### Telangana\n\nThe Government of Telangana has launched WE Hub — a first-of-its-kind initiative to promote and foster women entrepreneurship in the state. The organization supports women through business incubation, facilitating access to government, and building forward and backward linkages in the innovation ecosystem at zero cost.\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)\n\n#### West Bengal\n\nThe state offers special neighbourhood handholding and mentoring support to rural startups and startups by women entrepreneurs through MSME Facilitation Centres (MFC).\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)\n\n#### Dadra and Nagar Haveli & Daman and Diu",
+                "url":"www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html",
+                "distance":0.6802
+            },
+            {
+                "chunk_text": "#### Odisha\n\nThe state offers monthly allowance at ideation/prototype stage and after the idea gets commercialised to women entrepreneurs post meeting the eligibility criteria.\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)\n\n#### Uttarakhand\n\nThe state offers allowance for marketing assistance to women entrepreneurs post meeting the eligibility criteria.\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)\n\n#### Chhattisgarh\n\nThe state offers a separate corpus out of Innovation Fund, Leap of Faith Revolving Fund, and Venture Capital Fund of more than Rs. 100 crores earmarked for women innovators to motivate and empower women entrepreneurs in the state.\n[View State Startup Policies](https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html)\n\n#### Goa",
+                "url":"www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html",
+                "distance":0.6934
+
+            }
+        ]
+    },
+    {
+        "Question": "What is the eligibility criteria for Skill Upgradation and Mahila Coir Yojana",
+        "Answer": "The scheme is eligible for Rural women artisans in regions producing coir fibre. It is an intitative by Coir Department comes under MSME. It is an exclusive training programme aimed at the skill development of women artisans engaged in the coir industry. Two months of training in coir spinning is imparted through this programme. The candidates who undergo this training are given a stipend of Rs. 3000/- per month. The trained artisans under the scheme are encouraged to avail assistance through Prime Minister’s Employment Generation Programme (PMEGP) scheme to set up coir units.",
+        "Source": "https://www.startupindia.gov.in/content/sih/en/women_entrepreneurs.html",
+        "Predicted answer":"The context does not provide enough information about the \"Skill Upgradation\" and \"Mahila Coir Yojana\" schemes. Therefore, I cannot determine their eligibility criteria based on the given data.",
+        "RetrievedChunks":[
+            {
+                "chunk_text":"| Ministry | Department | Benefit of the Scheme | Eligibility Criteria | Website || --- | --- | --- | --- | --- |",
+                "url":"www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html",
+                "distance":0.6114
+            },
+            {
+                "chunk_text":"| Ministry | Department | Benefit of the Scheme | Eligibility Criteria | Website || --- | --- | --- | --- | --- |",
+                "url":"www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html",
+                "distance":0.6114
+            },
+            {
+                "chunk_text":"| Ministry | Department | Benefit of the Scheme | Eligibility Criteria | Website || --- | --- | --- | --- | --- |",
+                "url":"www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html",
+                "distance":0.6114
+            },
+            {
+                "chunk_text":"| Ministry | Department | Benefit of the Scheme | Eligibility Criteria | Website || --- | --- | --- | --- | --- || * Ministry of Women and Child Development |  | * The Mahila Shakti Kendra (MSK) Scheme was approved in November,  2017 as a centrally sponsored scheme to empower rural women through  community participation. The scheme is envisaged to provide an   interface for rural women to approach the government for availing   theor entitlements and for empowering them thriugh training and capacity building. | * Rural women | * [LINK](https://wcd.nic.in/schemes/mahila-shakti-kendras-msk ) |",
+                "url":"www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html",
+                "distance":0.6325
+            },
+            {
+               "chunk_text": "| Ministry | Department | Benefit of the Scheme | Eligibility Criteria | Website |\n| --- | --- | --- | --- | --- |\n| *Ministry of Women and Child Development* |  | The scheme has twofold objectives: (1) To provide skills that give employability to women.",
+                "url":"www.startupindia.gov.in_content_sih_en_women_entrepreneurs.html",
+                "distance":0.6350
+            }
+        ]
+    },
+    {
+        "Question": "What is Karnataka's startup policy?",
+        "Answer": "Karnataka has 18339 DPIIT Recognised Startups and 8763 Women-Led Startups/Women Entrepreneurs. Key sector of startups is IT Consulting. For more information call 91-80-22231007, mail: startupcell@karnataka.gov.in or visit https://www.missionstartupkarnataka.org/?en",
+        "Source": "https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html",
+        "Predicted answer":"As per the provided context, Karnataka's startup policy provides initial capital costs for equipment and facilities and recurring costs of management of TBI for a three-year period, extendable by another two years based on performance, at the end of which the incubators are expected to become self-sufficient.",
+        "RetrievedChunks":[
+            {
+                "chunk_text": "Jharkhand — As per the Jharkhand startup policy, the government funded reputed and prestigious institutes of Jharkhand would be provided with a sum of INR 50 lakhs annually for the first 5 years for setting up incubation/innovation centres. Karnataka — As per the Karnataka startup policy, the state support would provide initial capital costs for equipment and facilities and recurring costs of management of TBI for a three-year period, extendable by another two years based on performance, at the end of which the incubators are expected to become self-sufficient. Launch Date: 12 Feb 2020. Reference: https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/state_startup_policies/Himachal%20startup%20policy.pdf, https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/state_startup_policies/Jharkhand%20Startup%20Policy.pdf",
+                "url": "www.startupindia.gov.in_content_sih_en_incubator-schemes.html",
+                "distance": 0.7092
+            },
+            {
+                "chunk_text": "Arunachal Pradesh — A nascent startup ecosystem, with support to develop institutionalized mechanisms such as formation of a nodal team and development of a dedicated startup policy. Goa — Startup India states' team has shared inputs on the proposed Startup procurement policy. Uttar Pradesh — Guidance provided for policy modification and building a nodal team. Reference: [National Report PDF](images/SRF_2022_Result_page/National_Report_14_01_2024.pdf), [Compendium PDF](images/SRF_2022_Result_page/Compendium_14_01_2024.pdf).",
+                "url": "www.startupindia.gov.in_srf",
+                "distance": 0.7109
+            },
+            {
+                "chunk_text": "Startup India Andhra Pradesh Yatra — The Government of Andhra Pradesh is committed to creating a world-class technology startup ecosystem by fostering entrepreneurship and a culture of innovation, contributing to increased knowledge, wealth, and employment. The Innovation and Start-up Policy aims to create an entrepreneur in every family with targets set by June 30, 2019.",
+                "url": "www.startupindia.gov.in_content_sih_en_EventsCompetitions_startup_india_yatra_startup-AndhraPradesh-yatra.html",
+                "distance": 0.7148
+            },
+            {
+                "chunk_text": "Tamil Nadu — The state Government would allot land at nominal lease for 99 years to establish 'Startup Parks' for entrepreneurs/Startups including NRIs. Telangana — The state government would match the funding raised by the Incubator from the Government of India on a 1:1 basis as matching grants. Launch Date: 12 Feb 2020. Reference: https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/state_startup_policies/Rajasthan-startup-policy-2015.pdf, https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/state_startup_policies/Tamil_Nadu_Startup_Policy.pdf, https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/state_startup_policies/Telangana-Innovation-Policy-Issued-GO.pdf",
+                "url": "www.startupindia.gov.in_content_sih_en_incubator-schemes.html",
+                "distance": 0.7242
+            },
+            {
+                "chunk_text": "States' & UTs' Startup Policies — A State’s Startup Policy provides funding, mentorship, and market access support for startups to grow and contribute to the State’s economy via revenue and job creation. Policies also incentivize stakeholders like incubators and higher education institutions to promote holistic development. Today, 31 of the 36 States and Union Territories have a dedicated Startup Policy, 27 developed after the launch of Startup India in 2016. Each of the 36 States and UTs has at least one DPIIT-recognised startup; 653 districts host at least one. Reference: www.startupindia.gov.in_content_sih_en_state-startup-policies.html",
+                "url": "www.startupindia.gov.in_content_sih_en_state-startup-policies.html",
+                "distance": 0.7254
+            }
+        ]
+    },
+    {
+        "Question": "What are different types of startup fundings?",
+        "Answer": "There re three different types of startup fundings. Equity Financing, Debt Financing and Grants. Equity financing involves selling a portion of a company's equity in return for capital. Debt financing involves the borrowing of money and paying it back with interest. A grant is an award, usually financial, given by an entity to a company to facilitate a goal or incentivise performance.",
+        "Source": "https://www.startupindia.gov.in/content/sih/en/funding.html",
+        "Predicted answer": "According to the provided context, the following are different types of startup funding:\n1. **Equity Financing**: There is no component of repayment of the invested funds.\n2. **Debt Financing**: Invested Funds to be repaid within a stipulated time frame with interest.\n3. **Grants**: There is no component of repayment of the invested funds.",
+        "RetrievedChunks":[
+            {
+                "chunk_text": "Early Traction/Series A Stage — This is the stage where your startup’s products or services have been launched in the market. Key performance indicators such as customer base, revenue, app downloads, etc. become important. Funds are raised at this stage to grow user base, expand product offerings, and enter new geographies. Common funding sources include Venture Capital Funds, which invest in exchange for equity and provide mentorship. Launch Date: N/A. Reference: https://www.startupindia.gov.in/content/sih/en/reources/looking-for-funding.html",
+                "url": "www.startupindia.gov.in_content_sih_en_reources_looking_for_funding.html",
+                "distance": 0.6927
+            },
+            {
+                "chunk_text": "Stages of Startups and Source of Funding — Startups have multiple funding sources depending on their stage. Raising external funds can take over 6 months. Ideation Stage — The entrepreneur has an idea and seeks to bring it to life. Funding needed is usually small, with limited informal channels available. Pre-Seed Stage — Entrepreneurs often rely on bootstrapping/self-financing. Launch Date: N/A. Reference: https://www.startupindia.gov.in/content/sih/en/funding.html",
+                "url": "www.startupindia.gov.in_content_sih_en_funding.html",
+                "distance": 0.7143
+            },
+            {
+                "chunk_text": "Crowdfunding — Raising money from many individuals via online platforms. Early Traction Stage — Products or services launched; KPIs like customer base, revenue, and app downloads become important. Series A Stage — Funds are raised to grow user base, expand product offerings, and enter new geographies. Common funding sources: Venture Capital Funds. Launch Date: N/A. Reference: https://www.startupindia.gov.in/content/sih/en/funding.html",
+                "url": "www.startupindia.gov.in_content_sih_en_funding.html",
+                "distance": 0.7256
+            },
+            {
+                "chunk_text": "Pre-Seed Stage — Bootstrapping/Self-financing: relying on savings and revenue with no outside investment. Friends and Family: early-stage investment with trust. Business Plan/Pitching Events: grants or prize money from competitions, usually small but sufficient at idea stage. Launch Date: N/A. Reference: https://www.startupindia.gov.in/content/sih/en/funding.html",
+                "url": "www.startupindia.gov.in_content_sih_en_funding.html",
+                "distance": 0.7404
+            },
+            {
+                "chunk_text": "Types of Funding — Equity Financing: no repayment, higher risk to investor. Debt Financing: invested funds repaid with interest, lower risk. Grants: no repayment, no collateral risk. Launch Date: N/A. Reference: https://www.startupindia.gov.in/content/sih/en/reources/looking-for-funding.html",
+                "url": "www.startupindia.gov.in_content_sih_en_reources_looking_for_funding.html",
+                "distance": 0.7763
+            }
+        ]
+    },
+    {
+        "Question": "What is tax exemption under section 80IAC?",
+        "Answer": "A benefit under Startup India for eligible startups that allows income tax exemption for 3 consecutive years out of their first 10 years since incorporation.",
+        "Source":"https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+        "Predicted answer":"Tax exemption under Section 80IAC of the Income Tax Act allows a deduction of an amount equal to hundred percent of the profits and gains derived from an eligible business by an eligible startup for three consecutive assessment years out of ten years, at the option of the assessee, provided the total turnover of its business does not exceed hundred crore rupees in the previous year relevant to the assessment year.",
+        "RetrievedChunks":[
+            [
+                {
+                    "chunk_text": "The Inter-Ministerial Board (IMB) evaluates startup applications for exemption under Section 80-IAC of the Income Tax Act. It considers whether an entity is working towards innovation, developing products, services, or scalable business models with high potential for employment or wealth creation. Remote/rural startups are also encouraged. Since 2016, 47 meetings have been held and 319 eligible startups have been granted exemptions. Reference: www.startupindia.gov.in_content_dam_invest-india_Templates_public_5_years_Achievement_report_20__20final_20_1_.pdf",
+                    "url": "www.startupindia.gov.in_content_dam_invest-india_Templates_public_5_years_Achievement_report_20__20final_20_1_.pdf",
+                    "distance": 0.4458
+                },
+                {
+                    "chunk_text": "Income Tax Exemption Notifications — The IMB, under the Department for Promotion of Industry and Internal Trade (DPIIT), validates startups for tax-related benefits. A DPIIT-recognised startup can apply to the IMB for full deduction on profits and gains, subject to eligibility criteria. Reference: www.startupindia.gov.in_content_sih_en_startupgov_imb.html",
+                    "url": "www.startupindia.gov.in_content_sih_en_startupgov_imb.html",
+                    "distance": 0.4616
+                },
+                {
+                    "chunk_text": "Startup India: 80 IAC Tax Exemption — After recognition, startups can apply for tax exemption under Section 80-IAC for 3 consecutive financial years within the first 10 years since incorporation. Eligible entities are Private Limited companies or LLPs incorporated after 1st April 2016. Reference: www.startupindia.gov.in_content_sih_en_startupgov_startup_recognition_page.html",
+                    "url": "www.startupindia.gov.in_content_sih_en_startupgov_startup_recognition_page.html",
+                    "distance": 0.4623
+                },
+                {
+                    "chunk_text": "Finance Act 2020 amended Section 80-IAC to allow eligible startups to claim 100% deduction of profits and gains for 3 consecutive assessment years out of 10, provided turnover does not exceed 100 crore rupees. Amendment effective from 1st April 2021 for AY 2021-22 onward. Reference: www.startupindia.gov.in_content_dam_invest-india_Templates_public_5_years_Achievement_report_20__20final_20_1_.pdf",
+                    "url": "www.startupindia.gov.in_content_dam_invest-india_Templates_public_5_years_Achievement_report_20__20final_20_1_.pdf",
+                    "distance": 0.4674
+                },
+                {
+                    "chunk_text": "Finance Act 2020 — Clarifies Section 80-IAC amendment: eligible startups can claim full deduction for 3 consecutive assessment years out of 10 if turnover ≤ 100 crore (previously 25 crore). Effective 1st April 2021 for AY 2021-22 onwards. Reference: www.startupindia.gov.in_content_dam_invest-india_Templates_public_5_years_Achievement_report_20__20final_20_1_.pdf",
+                    "url": "www.startupindia.gov.in_content_dam_invest-india_Templates_public_5_years_Achievement_report_20__20final_20_1_.pdf",
+                    "distance": 0.4808
+                }
+            ]
+            
+        ]
+    },
+    {
+        "Question": "What are different funding support for Indian startups?",
+        "Answer": "SIDBI Fund of Funds Scheme, Startup India Seed Fund Scheme, Startup India Investor Connect, Credit Guarantee Scheme for Startups",
+        "Source": "https://www.startupindia.gov.in/content/sih/en/funding.html",
+        "Predicted answer":"According to the context, different funding supports for Indian startups include:\n1. Seed Fund Scheme\n2. Fund of Funds (FFS)\n3. Startup India Investor Connect\nThese funding options aim to facilitate investment opportunities and provide financial assistance to Indian startups.",
+        "RetrievedChunks":[
+            {
+                "chunk_text": "The Startup India Seed Fund Scheme (SISFS) aims to provide financial assistance to startups for proof of concept, prototype development, product trials, market entry, and commercialisation. The MAARG mentorship platform aims at facilitating intelligent matchmaking between mentors and startups across varied sectors at scale.",
+                "url": "www.startupindia.gov.in_content_sih_en_about-startup-india-initiative.html",
+                "distance": 0.7692
+            },
+            {
+                "chunk_text": "Funding Guide for Startups — Your virtual guide to startup funding. A startup might require funding for one, a few, or all of the following purposes. Startup India Investor Connect — A platform that connects startups with investors to facilitate investment opportunities. Fund of Funds — A corpus for contribution to various AIFs registered with SEBI for funding of startups. Startup Ecosystem — Bringing together the entire Indian and Global Startup community through virtual connects, mentorship and showcase opportunities.",
+                "url": "www.startupindia.gov.in_content_sih_en_home-page.html",
+                "distance": 0.7723
+            },
+            {
+                "chunk_text": "Funding Guide for Startups — Your virtual guide to startup funding. A startup might require funding for one, a few, or all of the following purposes. Startup India Investor Connect — A platform that connects startups with investors to facilitate investment opportunities. Fund of Funds — A corpus for contribution to various AIFs registered with SEBI for funding of startups. Startup Ecosystem — Bringing together the entire Indian and Global Startup community through virtual connects, mentorship and showcase opportunities.",
+                "url": "www.startupindia.gov.in_content_sih_en_profile.html",
+                "distance": 0.7723
+            },
+            {
+                "chunk_text": "Funding Guide for Startups — Your virtual guide to startup funding. A startup might require funding for one, a few, or all of the following purposes. Startup India Investor Connect — A platform that connects startups with investors to facilitate investment opportunities. Fund of Funds — A corpus for contribution to various AIFs registered with SEBI for funding of startups. Startup Ecosystem — Bringing together the entire Indian and Global Startup community through virtual connects, mentorship and showcase opportunities.",
+                "url": "www.startupindia.gov.in_content_sih_en_persona.update.html",
+                "distance": 0.7723
+            },
+            {
+                "chunk_text": "Funding Guide for Startups — Your virtual guide to startup funding. A startup might require funding for one, a few, or all of the following purposes. Startup India Investor Connect — A platform that connects startups with investors to facilitate investment opportunities. Fund of Funds — A corpus for contribution to various AIFs registered with SEBI for funding of startups. Startup Ecosystem — Bringing together the entire Indian and Global Startup community through virtual connects, mentorship and showcase opportunities.",
+                "url": "www.startupindia.gov.in_content_sih_en_profile.html",
+                "distance": 0.7730
+            }
+        ]
+    },
+    {
+        "Question": "Can a Partnership Firm avail SISFS benefits?",
+        "Answer": "Yes, provided it is registered and recognized by DPIIT.",
+        "Source": "startupindia.gov.in",
+        "Predicted answer":"The context does not provide enough information to answer this question.",
+        "RetrievedChunks":[
+            {
+                "chunk_text": "Yes. One Person Companies are eligible to avail benefits under the Startup India initiative. A foreign national can enter into a partnership under the LLP Act and get that LLP registered on the Startup India website. It can even be recognised by the DIPP. Only one mobile number and one landline number of the authorised representative of the entity can be provided at the time of registration. The portal and mobile app send an OTP to complete authentication and registration.",
+                "url": "www.startupindia.gov.in_content_sih_en_about_us_faqs.html",
+                "distance": 0.4862
+            },
+            {
+                "chunk_text": "Life Insurance Corporation (LIC) shall be a co-investor in the Fund of Funds. The Fund of Funds shall contribute to a maximum of 50% of the stated daughter fund size. In order to receive the contribution, the daughter fund should have already raised the balance 50% or more of the stated fund size. The Fund of Funds shall have representation on the governance structure or board of the venture fund based on its contribution. The Fund shall ensure support to a broad mix of sectors such as manufacturing, agriculture, health, education, etc. Objective: To catalyse entrepreneurship by providing credit to innovators across all sections of society. Details: To overcome the stigma associated with startup failures and encourage experimentation among entrepreneurs through disruptive business models.",
+                "url": "www_startupindia_gov_in_content_dam_invest-india_Templates_public_Action__Plan.pdf",
+                "distance": 0.4906
+            },
+            {
+                "chunk_text": "Partners on-boarded by Startup India are offering pro-bono legal, management, and enterprise services. Until October 2020, pro-bono services worth Rs 36.41 crore have been offered by 25 resource partners. Based on impact numbers and amounts provided by partners, these services have benefited numerous startups across domains such as Cloud Telephony, Customer Service Management, and Financial & Business Services.",
+                "url": "www_startupindia_gov_in_content_dam_invest-india_Templates_public_5_years_Achievement_report_20__20final_20_1_.pdf",
+                "distance": 0.5275
+            },
+            {
+                "chunk_text": "Legal Support: Receive legal advice for your startup including company incorporation, structuring, and compliances. Launch Date: 02/04/2020. Financial Services: Use convenient banking and fintech services for starting and running your business. Launch Date: 02/04/2020. Business Services: Make use of tools and applications to scale up your business. Launch Date: 02/04/2020. The partner is responsible for verifying the accuracy and validity of the information provided and complying with applicable laws and regulations.",
+                "url": "www.startupindia.gov.in_content_sih_en_reources_resource-partners.html",
+                "distance": 0.5299
+            },
+            {
+                "chunk_text": "Startup India has partnered with various corporations and organisations to provide free services to startups and help accelerate their growth. These services include management enterprise tools, cloud credits, and more. Pro-bono offerings: Cloud Services – Get credits for hosting your website and managing phone systems on the cloud. Management and Enterprise Software – Use SaaS solutions to automate organisational processes such as sales and marketing. Legal Support – Receive legal advice for incorporation, structuring, and compliances. Launch Date: 02/04/2020.",
+                "url": "www.startupindia.gov.in_content_sih_en_reources_resource-partners.html",
+                "distance": 0.5381
+            }
+        ]
+        
+    },
+    {
+        "Question": "Can startups in Tier 2 and Tier 3 cities apply?",
+        "Answer": "Yes, applications are encouraged from all regions.",
+        "Source": "startupindia.gov.in",
+        "Predicted answer":"The answer is: Yes, startups in Tier 2 and Tier 3 cities can apply. The context mentions the Startup India Chhattisgarh Yatra, which travels to Tier 2 and 3 cities of India to search for entrepreneurial talent and help develop the startup ecosystem at the grassroots level.",
+        "RetrievedChunks":[
+            {
+                "chunk_text":"Message beyond metros to tier 2 and 3 cities and engaging regional governments in overall transformation. The Action Plan under the Startup India Initiative was primarily focused on addressing the most vital issues faced by entrepreneurs during various stages of their businesses and developing the Indian startup ecosystem to one of the biggest startup ecosystems globally. Since the launch of Startup India and subsequent implementation of various initiatives, substantial improvement has been created in the overall startup environment. Moreover, the Ease of Doing Business index for India has made a significant leap from 130 in 2016 to 63 in 2020, further encouraging the proliferation of startups in India. Reference: https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/state_startup_policies/GoaStart-up-Policy2017-dated-19-9-2017.pdf. Launch Date: 12 Feb 2020.",
+                "url":"www_startupindia_gov_in_content_dam_invest-india_Templates_public_5_years_Achievement_report_20__20final_20_1_.pdf",
+                "distance":0.5436
+            },
+            {
+                "chunk_text":"Gujarat: The incubators have a choice between Gujarat State Startup Policy or Industries and Mines department. Eligible incubators will be provided one-time capital assistance at the rate of 50% of Gross Fixed Capital Investment and many other incentives. Know more: https://startup.gujarat.gov.in/files/2020/11/67fa51ad-d410-49be-8ff3-f93adc784118_13-GR_02092020.pdf. Launch Date: 12 Feb 2020. Haryana: The state startup policy aims to establish at least 22 Technology Business Incubators and Accelerators across different sectors of Haryana. Key Updates on the Action Points: Action Point 1 Objective: To reduce the regulatory burden on startups, thereby allowing them to focus on their core. Responsible Ministry: Ministry of Labour and Employment (MoLE).",
+                "url":"www.startupindia.gov.in_content_sih_en_incubator-schemes.html",
+                "distance":0.5439
+            },
+            {
+                "chunk_text":"Startup India Chhattisgarh Yatra: Organized under the Startup India initiative, Startup India Yatra travels to Tier 2 and 3 cities of India to search for entrepreneurial talent and help develop startup ecosystem at the grassroots level in states. The Chhattisgarh edition will be travelling to sixteen cities and will conclude with a grand finale in Raipur. 5000+ Entrepreneurs to be impacted, 16 Destinations. Each city will host a day-long boot camp that includes presentations on Startup India and Chhattisgarh Startup Policy followed by an extensive ideation workshop.",
+                "url":"www.startupindia.gov.in_content_sih_en_EventsCompetitions_startup_india_yatra_startup-chhattisgarh-yatra.html",
+                "distance":0.5475
+            },
+            {
+                "chunk_text":"An eligible startup refers to a company or limited liability partnership engaged in products or services or a scalable business model with high potential for employment generation or wealth creation. Conditions include: (a) It must be incorporated on or after 1 April 2016 but before 1 April of the relevant year; (b) The total turnover should not exceed Rs 100 crore in the previous year relevant to the assessment year for which deduction under Section 80-IAC of the Income Tax Act is claimed; and (c) It must hold a certificate of eligible business from the Inter-Ministerial Board of Certification as notified by the Central Government. A DPIIT-recognised startup is eligible to apply to the Inter-Ministerial Board for full deduction on profits and gains.",
+                "url":"www_startupindia_gov_in_content_dam_invest-india_Templates_public_5_years_Achievement_report_20__20final_20_1_.pdf",
+                "distance":0.5633
+            },
+            {
+                "chunk_text":"Companies Act 2013 — Eligibility criteria for all three categories are as below: G1C — Legal status: Must be a Section 8/Section 25 entity. Experience: Must be an established incubation centre with 3 years of experience in running incubation activities. Industry Linkages: Must have collaboration with industry partners or bodies. G2C — Legal status: Must be a Section 8/Section 25 entity or registered society. Experience: Must be an established incubation centre with 2 years of experience in running incubation activities. Industry Linkages: Must have collaboration with industry partners or bodies. G3C — Legal status: Initially, Section 8/Section 25 entity status was not mandatory but must be acquired within one year of establishment as a TIDE centre. Experience: Should have an entrepreneurship or incubation cell. Industry Linkages: Not mandatory.",
+                "url":"www.startupindia.gov.in_content_sih_en_incubator-schemes.html",
+                "distance":0.5781
+            }
+        ]
+    }
+]

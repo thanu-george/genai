@@ -26,3 +26,7 @@ volumes/
 # Ignore local configs or temp files
 *.swp
 *.swo
+
+*.deepeval
+docker-compose.yml
+standalone_embed.sh

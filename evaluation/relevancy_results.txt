@@ -1,0 +1,35 @@
+## ANSWER RELEVANCY 
+
+Test Case 1: What is tax exemption under section 80IAC?...
+   Answer Relevancy: 1.00
+Test Case 2: What is the eligibility criteria for Skill Upgradation and Mahila Coir Yojana...
+   Answer Relevancy: 1.00
+Test Case 3: Which states has Startup policies for women...
+   Answer Relevancy: 1.00
+Test Case 4: Can startups in Tier 2 and Tier 3 cities apply?...
+   Answer Relevancy: 1.00
+Test Case 5: Can a Partnership Firm avail SISFS benefits?...
+   Answer Relevancy: 1.00
+Test Case 6: What are different funding support for Indian startups?...
+   Answer Relevancy: 1.00
+Test Case 7: What is Karnataka's startup policy?...
+   Answer Relevancy: 1.00
+Test Case 8: What type of company can apply?...
+   Answer Relevancy: 1.00
+Test Case 9: What is the difference between seed funding and venture capital funding?...
+   Answer Relevancy: 1.00
+Test Case 10: What are different types of startup fundings?...
+   Answer Relevancy: 1.00
+
+Latency & Token Efficiency:
+Q1: Latency=0.000s, Tokens=84, Efficiency=6.64
+Q2: Latency=0.000s, Tokens=42, Efficiency=6.00
+Q3: Latency=0.000s, Tokens=47, Efficiency=5.71
+Q4: Latency=0.000s, Tokens=40, Efficiency=2.33
+Q5: Latency=0.000s, Tokens=52, Efficiency=9.40
+Q6: Latency=0.000s, Tokens=60, Efficiency=7.57
+Q7: Latency=0.000s, Tokens=78, Efficiency=10.14
+Q8: Latency=0.000s, Tokens=48, Efficiency=5.00
+Q9: Latency=0.000s, Tokens=18, Efficiency=1.57
+Q10: Latency=0.000s, Tokens=57, Efficiency=4.70
+

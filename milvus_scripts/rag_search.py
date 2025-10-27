@@ -32,20 +32,22 @@ def semantic_search(collection_name: str, query_text: str, top_k: int) -> List[D
     )
 
     # Return chunks as dicts
+    hits = sorted(results[0], key=lambda x: x.distance)  # sort ascending (smaller = better)
+
     return [
-        {
-            "document_id": hit.entity.get("document_id"),
-            "score": hit.distance,
-            "chunk_order": hit.entity.get("chunk_order"),
-            "chunk_text": hit.entity.get("chunk_text"),
-        }
-        for hit in results[0]
-    ]
+    {
+        "document_id": hit.entity.get("document_id"),
+        "score": hit.distance,
+        "chunk_order": hit.entity.get("chunk_order"),
+        "chunk_text": hit.entity.get("chunk_text"),
+    }
+    for hit in hits
+]
 
 # --- Answer Generation ---
 def generate_answer(query_text: str, retrieved_chunks: List[Dict], model_name: str = "llama3:8b") -> str:
     context = "\n\n---\n\n".join([chunk["chunk_text"] for chunk in retrieved_chunks])
-    prompt = f"""You are a helpful and precise assistant.
+    prompt = f"""You are a helpful and precise assistant. Give a concise and brief answer.
 Use only the following context to answer the question. If the answer cannot be found in the context, say "The context does not provide enough information."
 
 Context:
@@ -58,14 +60,14 @@ Answer:"""
 
 # --- For CLI testing ---
 if __name__ == "__main__":
-    query = "What is the eligibility criteria for Skill Upgradation and Mahila Coir Yojana? "
-    chunks = semantic_search("markdown_chunks", query, top_k=10)
+    query = "What is tax exemption under section 80IAC?"
+    chunks = semantic_search("markdown_chunks", query, top_k=5)
 
     print("\n=== Retrieved Chunks ===")
     for i, chunk in enumerate(chunks, 1):
         print(f"\nResult {i} (distance={chunk['score']:.4f})")
         print("Document:", chunk["document_id"])
-        #print("Text:", chunk["chunk_text"][:100])
+        print("Text:", chunk["chunk_text"])
 
     answer = generate_answer(query, chunks)
     print("\n=== Final Answer ===")
